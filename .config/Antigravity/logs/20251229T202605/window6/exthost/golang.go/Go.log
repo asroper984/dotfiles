@@ -1,0 +1,3 @@
+2025-12-29 20:44:14.060 [info] Try to start language server - activation (enabled: true)
+2025-12-29 20:44:14.129 [info] Running language server gopls(v0.21.0/go1.25.5 X:nodwarf5)
+2025-12-29 20:45:24.860 [info] Running checks...

@@ -1,0 +1,15 @@
+2025-12-28 15:55:37.026 [info] 2025/12/28 15:55:37 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-28 15:55:37.181 [info] I1228 15:55:37.181603  1835 server.go:1167] Starting language server process with pid 1835
+2025-12-28 15:55:37.182 [info] I1228 15:55:37.182113  1835 server.go:284] Setting GOMAXPROCS to 4
+2025-12-28 15:55:37.187 [info] I1228 15:55:37.187373  1835 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-28 15:55:37.188 [info] I1228 15:55:37.188008  1835 server.go:506] Language server listening on random port at 44619 for HTTPS
+2025-12-28 15:55:37.188 [info] I1228 15:55:37.188030  1835 server.go:513] Language server listening on random port at 42871 for HTTP
+2025-12-28 15:55:42.351 [info] I1228 15:55:42.351027  1835 server.go:484] Created extension server client at port 38069
+2025-12-28 15:55:42.391 [info] W1228 15:55:42.391146  1835 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 15:55:42.447 [info] (Antigravity) 2025-12-28 15:55:42.447 [INFO]: Language server started
+2025-12-28 15:55:42.449 [info] W1228 15:55:42.445396  1835 client.go:135] failed to set auth token
+2025-12-28 15:55:42.449 [info] W1228 15:55:42.445686  1835 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 15:55:42.449 [info] I1228 15:55:42.449455  1835 server.go:1496] initialized server successfully
+2025-12-28 15:55:42.474 [info] 2025/12/28 15:55:42 http: TLS handshake error from 127.0.0.1:50780: EOF
+2025-12-28 15:55:42.474 [info] 2025/12/28 15:55:42 http: TLS handshake error from 127.0.0.1:50774: EOF
+2025-12-28 15:55:42.479 [info] (Antigravity) 2025-12-28 15:55:42.479 [INFO]: LS lspClient started successfully

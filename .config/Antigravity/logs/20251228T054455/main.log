@@ -1,0 +1,35 @@
+2025-12-28 05:44:56.065 [info] Using Cloud Code URL: https://daily-cloudcode-pa.googleapis.com
+2025-12-28 05:44:56.070 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-28 05:44:56.073 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:38277
+2025-12-28 05:44:56.074 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-12-28 05:44:56.174 [info] update#setState idle
+2025-12-28 05:44:57.011 [info] AntigravityAuthMainService initialized
+2025-12-28 05:44:59.949 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/arope/.config
+2025-12-28 05:44:59.949 [info] [AgentClientServer] Starting server
+2025-12-28 05:44:59.953 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-28 05:44:59.954 [info] [AgentClientServer] Cascade server started on http://localhost:9092
+2025-12-28 05:44:59.954 [info] [AgentClientServer] Cascade server started on port 9092
+2025-12-28 05:45:26.174 [info] update#setState checking for updates
+2025-12-28 05:45:26.316 [info] update#setState idle
+2025-12-28 05:51:14.493 [info] Extension host with pid 3544 exited with code: 0, signal: unknown.
+2025-12-28 05:51:15.494 [error] Extension host with pid 3544 still exists, forcefully killing it...
+2025-12-28 06:45:26.174 [info] update#setState checking for updates
+2025-12-28 06:45:26.254 [info] update#setState idle
+2025-12-28 07:45:26.176 [info] update#setState checking for updates
+2025-12-28 07:45:26.255 [info] update#setState idle
+2025-12-28 08:45:26.176 [info] update#setState checking for updates
+2025-12-28 08:45:26.255 [info] update#setState idle
+2025-12-28 09:45:26.177 [info] update#setState checking for updates
+2025-12-28 09:45:26.783 [info] update#setState idle
+2025-12-28 10:45:26.177 [info] update#setState checking for updates
+2025-12-28 10:45:26.266 [info] update#setState idle
+2025-12-28 11:45:26.177 [info] update#setState checking for updates
+2025-12-28 11:45:26.257 [info] update#setState idle
+2025-12-28 12:45:26.177 [info] update#setState checking for updates
+2025-12-28 12:45:26.274 [info] update#setState idle
+2025-12-28 13:45:26.176 [info] update#setState checking for updates
+2025-12-28 13:45:26.286 [info] update#setState idle
+2025-12-28 14:45:26.177 [info] update#setState checking for updates
+2025-12-28 14:45:26.255 [info] update#setState idle
+2025-12-28 15:45:26.178 [info] update#setState checking for updates
+2025-12-28 15:45:31.262 [info] update#setState idle

@@ -1,0 +1,20 @@
+[Running] go run "/home/arope/Documents/Code/go/Notes/test.go"
+package command-line-arguments is not a main package
+
+[Done] exited with code=1 in 0.032 seconds
+
+[Running] go run "/home/arope/Documents/Code/go/Notes/test.go"
+package command-line-arguments is not a main package
+
+[Done] exited with code=1 in 0.009 seconds
+
+[Running] go run "/home/arope/Documents/Code/go/test.go"
+package command-line-arguments is not a main package
+
+[Done] exited with code=1 in 0.022 seconds
+
+[Running] go run "/home/arope/Documents/Code/go/test.go"
+package command-line-arguments is not a main package
+
+[Done] exited with code=1 in 0.018 seconds
+

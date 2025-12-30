@@ -1,0 +1,15 @@
+2025-12-28 05:44:58.740 [info] 2025/12/28 05:44:58 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-28 05:44:58.898 [info] I1228 05:44:58.898269  3753 server.go:1167] Starting language server process with pid 3753
+2025-12-28 05:44:58.898 [info] I1228 05:44:58.898769  3753 server.go:284] Setting GOMAXPROCS to 4
+2025-12-28 05:44:58.903 [info] I1228 05:44:58.903085  3753 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-28 05:44:58.903 [info] I1228 05:44:58.903726  3753 server.go:506] Language server listening on random port at 38883 for HTTPS
+2025-12-28 05:44:58.903 [info] I1228 05:44:58.903754  3753 server.go:513] Language server listening on random port at 46229 for HTTP
+2025-12-28 05:44:59.053 [info] I1228 05:44:59.053520  3753 server.go:484] Created extension server client at port 43437
+2025-12-28 05:44:59.157 [info] W1228 05:44:59.157797  3753 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 05:44:59.211 [info] (Antigravity) 2025-12-28 05:44:59.211 [INFO]: Language server started
+2025-12-28 05:44:59.214 [info] W1228 05:44:59.209509  3753 client.go:135] failed to set auth token
+2025-12-28 05:44:59.214 [info] W1228 05:44:59.209810  3753 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 05:44:59.214 [info] I1228 05:44:59.214079  3753 server.go:1496] initialized server successfully
+2025-12-28 05:44:59.258 [info] (Antigravity) 2025-12-28 05:44:59.258 [INFO]: LS lspClient started successfully
+2025-12-28 05:45:28.631 [info] E1228 05:45:28.631471  3753 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 05:45:30.080 [info] E1228 05:45:30.079936  3753 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500

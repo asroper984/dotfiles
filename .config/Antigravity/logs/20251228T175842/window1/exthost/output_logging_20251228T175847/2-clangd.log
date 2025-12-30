@@ -1,0 +1,55 @@
+I[17:58:48.120] clangd version 21.1.6
+I[17:58:48.123] Features: linux
+I[17:58:48.123] PID: 4045
+I[17:58:48.123] Working directory: /home/arope/.config
+I[17:58:48.123] argv[0]: /usr/bin/clangd
+I[17:58:48.124] Starting LSP over stdin/stdout
+I[17:58:48.135] <-- initialize(0)
+I[17:58:48.141] --> reply:initialize(0) 6 ms
+I[17:58:48.197] <-- initialized
+I[17:58:48.206] <-- textDocument/didOpen
+I[17:58:48.211] Failed to find compilation database for /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp
+I[17:58:48.211] ASTWorker building file /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp version 1 with command clangd fallback
+[/home/arope/Documents/Code/cpp/sa_integral_calc]
+/usr/bin/clang -resource-dir=/usr/lib/clang/21 -- /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp
+I[17:58:48.257] --> textDocument/clangd.fileStatus
+I[17:58:48.494] <-- textDocument/documentLink(1)
+I[17:58:48.494] <-- textDocument/inlayHint(2)
+I[17:58:48.494] <-- $/setTrace
+I[17:58:48.494] unhandled notification $/setTrace
+I[17:58:48.494] <-- textDocument/foldingRange(3)
+I[17:58:48.495] --> reply:textDocument/foldingRange(3) 0 ms
+I[17:58:48.514] <-- $/setTrace
+I[17:58:48.514] unhandled notification $/setTrace
+I[17:58:48.548] <-- textDocument/documentSymbol(4)
+I[17:58:48.667] Built preamble of size 4097352 for file /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp version 1 in 0.41 seconds
+I[17:58:48.667] --> workspace/semanticTokens/refresh(0)
+I[17:58:48.668] <-- reply(0)
+I[17:58:48.669] Indexing c++17 standard library in the context of /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp
+I[17:58:48.669] <-- textDocument/semanticTokens/full(5)
+I[17:58:48.709] --> textDocument/publishDiagnostics
+I[17:58:48.709] --> textDocument/inactiveRegions
+I[17:58:48.710] --> reply:textDocument/documentLink(1) 216 ms
+I[17:58:48.710] --> reply:textDocument/inlayHint(2) 216 ms
+I[17:58:48.711] --> reply:textDocument/documentSymbol(4) 162 ms
+I[17:58:48.711] --> reply:textDocument/semanticTokens/full(5) 41 ms
+I[17:58:48.711] --> textDocument/clangd.fileStatus
+I[17:58:48.948] <-- $/setTrace
+I[17:58:48.948] unhandled notification $/setTrace
+I[17:58:49.779] Indexed c++17 standard library (incomplete due to errors): 14012 symbols, 11705 filtered
+I[17:58:49.843] <-- $/setTrace
+I[17:58:49.843] unhandled notification $/setTrace
+I[17:58:49.881] <-- textDocument/documentSymbol(6)
+I[17:58:49.881] --> reply:textDocument/documentSymbol(6) 0 ms
+I[17:58:49.881] --> textDocument/clangd.fileStatus
+I[17:58:49.886] <-- textDocument/inlayHint(7)
+I[17:58:49.886] --> reply:textDocument/inlayHint(7) 0 ms
+I[17:58:49.886] --> textDocument/clangd.fileStatus
+I[17:58:50.606] <-- textDocument/documentLink(8)
+I[17:58:50.606] --> reply:textDocument/documentLink(8) 0 ms
+I[17:58:50.606] --> textDocument/clangd.fileStatus
+I[17:58:50.770] <-- textDocument/foldingRange(9)
+I[17:58:50.770] --> reply:textDocument/foldingRange(9) 0 ms
+I[17:58:50.868] <-- textDocument/documentSymbol(10)
+I[17:58:50.868] --> reply:textDocument/documentSymbol(10) 0 ms
+I[17:58:50.868] --> textDocument/clangd.fileStatus

@@ -1,0 +1,198 @@
+2025-12-28 14:15:26.102 [info] 2025/12/28 14:15:26 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-28 14:15:26.173 [info] I1228 14:15:26.129500 1267407 server.go:1167] Starting language server process with pid 1267407
+2025-12-28 14:15:26.173 [info] I1228 14:15:26.129530 1267407 server.go:284] Setting GOMAXPROCS to 4
+2025-12-28 14:15:26.173 [info] I1228 14:15:26.131050 1267407 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-28 14:15:26.173 [info] I1228 14:15:26.131187 1267407 server.go:506] Language server listening on random port at 35923 for HTTPS
+2025-12-28 14:15:26.173 [info] I1228 14:15:26.131211 1267407 server.go:513] Language server listening on random port at 34007 for HTTP
+2025-12-28 14:15:26.223 [info] I1228 14:15:26.223663 1267407 server.go:484] Created extension server client at port 42571
+2025-12-28 14:15:26.229 [info] W1228 14:15:26.229757 1267407 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 14:15:26.232 [info] W1228 14:15:26.232386 1267407 client.go:135] failed to set auth token
+2025-12-28 14:15:26.232 [info] W1228 14:15:26.232683 1267407 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 14:15:26.241 [info] (Antigravity) 2025-12-28 14:15:26.241 [INFO]: Language server started
+2025-12-28 14:15:26.247 [info] I1228 14:15:26.246100 1267407 server.go:1496] initialized server successfully
+2025-12-28 14:15:26.284 [info] 2025/12/28 14:15:26 http: TLS handshake error from 127.0.0.1:37290: EOF
+2025-12-28 14:15:26.309 [info] (Antigravity) 2025-12-28 14:15:26.309 [INFO]: LS lspClient started successfully
+2025-12-28 14:15:53.756 [info] 2025/12/28 14:15:53 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-28 14:15:53.904 [info] I1228 14:15:53.903754 1274260 server.go:1167] Starting language server process with pid 1274260
+2025-12-28 14:15:53.904 [info] I1228 14:15:53.903792 1274260 server.go:284] Setting GOMAXPROCS to 4
+2025-12-28 14:15:53.905 [info] I1228 14:15:53.904965 1274260 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-28 14:15:53.905 [info] I1228 14:15:53.905091 1274260 server.go:506] Language server listening on random port at 42853 for HTTPS
+2025-12-28 14:15:53.905 [info] I1228 14:15:53.905117 1274260 server.go:513] Language server listening on random port at 39093 for HTTP
+2025-12-28 14:15:54.009 [info] I1228 14:15:54.009261 1274260 server.go:484] Created extension server client at port 44059
+2025-12-28 14:15:54.016 [info] W1228 14:15:54.011410 1274260 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 14:15:54.016 [info] W1228 14:15:54.014290 1274260 client.go:135] failed to set auth token
+2025-12-28 14:15:54.016 [info] W1228 14:15:54.014630 1274260 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 14:15:54.026 [info] (Antigravity) 2025-12-28 14:15:54.025 [INFO]: Language server started
+2025-12-28 14:15:54.034 [info] I1228 14:15:54.028779 1274260 server.go:1496] initialized server successfully
+2025-12-28 14:15:54.086 [info] 2025/12/28 14:15:54 http: TLS handshake error from 127.0.0.1:54056: EOF
+2025-12-28 14:15:54.086 [info] 2025/12/28 14:15:54 http: TLS handshake error from 127.0.0.1:54040: EOF
+2025-12-28 14:15:54.105 [info] (Antigravity) 2025-12-28 14:15:54.105 [INFO]: LS lspClient started successfully
+2025-12-28 14:16:36.124 [info] E1228 14:16:36.124650 1274260 interceptor.go:74] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 1996: offset 1996 out of range [0, 1995]
+2025-12-28 14:16:50.538 [info] E1228 14:16:50.538642 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:16:51.039 [info] E1228 14:16:51.039367 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:09.673 [info] E1228 14:17:09.673529 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:11.733 [info] E1228 14:17:11.733379 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:12.639 [info] E1228 14:17:12.639155 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:13.183 [info] E1228 14:17:13.183645 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:14.209 [info] E1228 14:17:14.209165 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:14.829 [info] E1228 14:17:14.829388 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:17.260 [info] E1228 14:17:17.260367 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:18.656 [info] E1228 14:17:18.656758 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:19.157 [info] E1228 14:17:19.157363 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:19.637 [info] E1228 14:17:19.637284 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:20.266 [info] E1228 14:17:20.266568 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:24.308 [info] E1228 14:17:24.308815 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:25.234 [info] E1228 14:17:25.234875 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:25.735 [info] E1228 14:17:25.735036 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:26.159 [info] E1228 14:17:26.159478 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:27.293 [info] E1228 14:17:27.293034 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:27.793 [info] E1228 14:17:27.793307 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:29.714 [info] E1228 14:17:29.713970 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:40.936 [info] E1228 14:17:40.936701 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:42.435 [info] E1228 14:17:42.435439 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:42.936 [info] E1228 14:17:42.936379 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:43.119 [info] E1228 14:17:43.119597 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:43.619 [info] E1228 14:17:43.619776 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:44.216 [info] E1228 14:17:44.216016 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:45.167 [info] E1228 14:17:45.167600 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:46.217 [info] E1228 14:17:46.217002 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:47.181 [info] E1228 14:17:47.181127 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:47.789 [info] E1228 14:17:47.789542 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:49.440 [info] E1228 14:17:49.440136 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:49.480 [info] (Antigravity) 2025-12-28 14:17:49.479 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:17:52.080 [info] E1228 14:17:52.080231 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:52.117 [info] (Antigravity) 2025-12-28 14:17:52.117 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:17:53.656 [info] (Antigravity) 2025-12-28 14:17:53.656 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:17:54.845 [info] E1228 14:17:54.845355 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:17:56.678 [info] (Antigravity) 2025-12-28 14:17:56.678 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:18:03.034 [info] (Antigravity) 2025-12-28 14:18:03.034 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:18:14.485 [info] E1228 14:18:14.485516 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:14.987 [info] E1228 14:18:14.987065 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:15.777 [info] E1228 14:18:15.777511 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:18.682 [info] E1228 14:18:18.682211 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:26.371 [info] E1228 14:18:26.371378 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:27.504 [info] E1228 14:18:27.504593 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:28.503 [info] E1228 14:18:28.503111 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:43.902 [info] E1228 14:18:43.902765 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:46.502 [info] E1228 14:18:46.502538 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:48.277 [info] E1228 14:18:48.276964 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:18:49.872 [info] E1228 14:18:49.872835 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:19.497 [info] E1228 14:19:19.497088 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:20.461 [info] E1228 14:19:20.461466 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:21.208 [info] E1228 14:19:21.208813 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:22.959 [info] E1228 14:19:22.959156 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:23.559 [info] E1228 14:19:23.559462 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:24.099 [info] E1228 14:19:24.099346 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:24.873 [info] E1228 14:19:24.873368 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:41.301 [info] E1228 14:19:41.301083 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:41.801 [info] E1228 14:19:41.801804 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:42.901 [info] E1228 14:19:42.901764 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:43.402 [info] E1228 14:19:43.402220 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:43.902 [info] E1228 14:19:43.902437 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:19:44.105 [info] E1228 14:19:44.105533 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:20:34.054 [info] E1228 14:20:34.053943 1274260 log.go:354] encountered conflicting override on experiment: cascade-knowledge-config
+2025-12-28 14:20:34.073 [info] I1228 14:20:34.073072 1274260 planner_generator.go:273] Requesting planner with 7 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 14:20:37.798 [info] I1228 14:20:37.798209 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x6e058f19ecb13164
+2025-12-28 14:20:51.241 [info] E1228 14:20:51.241612 1274260 log.go:362] artifact metadata is required when IsArtifact is true
+2025-12-28 14:20:51.242 [info] I1228 14:20:51.242501 1274260 planner_generator.go:273] Requesting planner with 9 chat messages at model retry attempt 2 and API retry attempt 1
+2025-12-28 14:20:54.457 [info] I1228 14:20:54.457696 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x54e048aa3230c9d4
+2025-12-28 14:20:58.364 [info] E1228 14:20:58.363875 1274260 log.go:354] argument order was not respected: [TaskName Mode PredictedTaskSize] vs [Mode PredictedTaskSize TaskName TaskStatus TaskSummary]
+2025-12-28 14:20:58.761 [info] E1228 14:20:58.761336 1274260 log.go:354] argument order was not respected: [TargetFile Overwrite] vs [ArtifactMetadata CodeContent Complexity Description EmptyFile IsArtifact Overwrite TargetFile]
+2025-12-28 14:20:59.163 [info] E1228 14:20:59.158523 1274260 log.go:362] path is not in a workspace which you have access to: either proceed without accessing that path, or ask the user if they are willing to turn off workspace validation
+2025-12-28 14:20:59.185 [info] I1228 14:20:59.184384 1274260 planner_generator.go:273] Requesting planner with 13 chat messages at model retry attempt 3 and API retry attempt 1
+2025-12-28 14:21:02.513 [info] I1228 14:21:02.513237 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xb85eb8b5e3bdafaa
+2025-12-28 14:21:09.807 [info] E1228 14:21:09.807676 1274260 log.go:354] argument order was not respected: [TaskName Mode PredictedTaskSize] vs [Mode PredictedTaskSize TaskName TaskStatus TaskSummary]
+2025-12-28 14:21:10.411 [info] E1228 14:21:10.411121 1274260 log.go:354] argument order was not respected: [TargetFile] vs [ArtifactMetadata CodeMarkdownLanguage Complexity Description Instruction ReplacementChunks TargetFile]
+2025-12-28 14:21:10.617 [info] E1228 14:21:10.616566 1274260 log.go:362] path is not in a workspace which you have access to: either proceed without accessing that path, or ask the user if they are willing to turn off workspace validation
+2025-12-28 14:21:10.649 [info] I1228 14:21:10.649683 1274260 planner_generator.go:273] Requesting planner with 18 chat messages at model retry attempt 4 and API retry attempt 1
+2025-12-28 14:21:14.041 [info] (Antigravity) 2025-12-28 14:21:14.041 [INFO]: [Terminal] Command completed: cd /home/arope/.gemini/antigravity/scratch exit code 0
+2025-12-28 14:21:14.066 [info] I1228 14:21:14.066575 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xbe674d6b1029ae3b
+2025-12-28 14:21:25.422 [info] E1228 14:21:25.422186 1274260 log.go:354] argument order was not respected: [TaskName Mode PredictedTaskSize] vs [Mode PredictedTaskSize TaskName TaskStatus TaskSummary]
+2025-12-28 14:21:32.103 [info] E1228 14:21:32.103639 1274260 log.go:354] encountered conflicting override on experiment: cascade-knowledge-config
+2025-12-28 14:21:32.120 [info] I1228 14:21:32.120803 1274260 planner_generator.go:273] Requesting planner with 22 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 14:21:35.460 [info] I1228 14:21:35.460044 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xd714f2f535b0145a
+2025-12-28 14:22:03.312 [info] E1228 14:22:03.312414 1274260 log.go:354] argument order was not respected: [TaskName Mode PredictedTaskSize] vs [Mode PredictedTaskSize TaskName TaskStatus TaskSummary]
+2025-12-28 14:22:10.087 [info] E1228 14:22:10.087233 1274260 log.go:354] argument order was not respected: [TargetFile] vs [ArtifactMetadata CodeMarkdownLanguage Complexity Description Instruction ReplacementChunks TargetFile]
+2025-12-28 14:22:11.394 [info] E1228 14:22:11.394626 1274260 log.go:354] argument order was not respected: [TargetFile Overwrite] vs [ArtifactMetadata CodeContent Complexity Description EmptyFile IsArtifact Overwrite TargetFile]
+2025-12-28 14:22:11.432 [info] E1228 14:22:11.432239 1274260 log.go:354] argument order was not respected: [PathsToReview BlockedOnUser] vs [BlockedOnUser Message PathsToReview ShouldAutoProceed]
+2025-12-28 14:22:11.703 [info] I1228 14:22:11.702988 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x7319e6db65847aa5
+2025-12-28 14:22:14.236 [info] I1228 14:22:14.235773 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x20cdb3e723aae5c0
+2025-12-28 14:22:24.359 [info] E1228 14:22:24.359106 1274260 log.go:354] encountered conflicting override on experiment: cascade-knowledge-config
+2025-12-28 14:22:24.377 [info] I1228 14:22:24.377648 1274260 planner_generator.go:273] Requesting planner with 28 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 14:22:27.890 [info] I1228 14:22:27.890334 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xe047baebdef51e9f
+2025-12-28 14:22:45.014 [info] E1228 14:22:45.014373 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:22:45.063 [info] (Antigravity) 2025-12-28 14:22:45.063 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:22:45.726 [info] E1228 14:22:45.726547 1274260 log.go:354] argument order was not respected: [TaskName Mode PredictedTaskSize] vs [Mode PredictedTaskSize TaskName TaskStatus TaskSummary]
+2025-12-28 14:22:46.401 [info] E1228 14:22:46.401264 1274260 log.go:354] argument order was not respected: [TargetFile] vs [ArtifactMetadata CodeMarkdownLanguage Complexity Description Instruction ReplacementChunks TargetFile]
+2025-12-28 14:22:47.892 [info] I1228 14:22:47.892648 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x10e5c2b0e144e30
+2025-12-28 14:22:55.599 [info] (Antigravity) 2025-12-28 14:22:55.599 [INFO]: [Terminal] Command completed: grep -n "grim" /home/arope/.config/sway/config exit code 0
+2025-12-28 14:22:55.923 [info] I1228 14:22:55.923726 1274260 planner_generator.go:273] Requesting planner with 31 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 14:22:58.600 [info] (Antigravity) 2025-12-28 14:22:58.600 [INFO]: [Terminal] Command force exited: grep -n "grim" /home/arope/.config/sway/config, with exit code 0
+2025-12-28 14:22:59.597 [info] I1228 14:22:59.597684 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xc9e986f86041d3de
+2025-12-28 14:22:59.624 [info] I1228 14:22:59.624471 1274260 planner_generator.go:273] Requesting planner with 33 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 14:23:03.017 [info] I1228 14:23:03.017187 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x4bd19860b18726a4
+2025-12-28 14:23:12.450 [info] E1228 14:23:12.450623 1274260 log.go:354] argument order was not respected: [TaskName Mode PredictedTaskSize] vs [Mode PredictedTaskSize TaskName TaskStatus TaskSummary]
+2025-12-28 14:23:13.064 [info] E1228 14:23:13.064263 1274260 log.go:354] argument order was not respected: [TargetFile Overwrite] vs [ArtifactMetadata CodeContent Complexity Description EmptyFile IsArtifact Overwrite TargetFile]
+2025-12-28 14:23:13.114 [info] E1228 14:23:13.110630 1274260 log.go:362] failed to update code tracker for document
+2025-12-28 14:23:14.583 [info] E1228 14:23:14.583623 1274260 log.go:354] argument order was not respected: [TargetFile] vs [ArtifactMetadata CodeMarkdownLanguage Complexity Description Instruction ReplacementChunks TargetFile]
+2025-12-28 14:23:34.074 [info] (Antigravity) 2025-12-28 14:23:34.074 [INFO]: [Terminal] Command completed: python3 update_config.py && echo "---" && grep -n "sh -c" /home/arope/.config/sway/config exit code 0
+2025-12-28 14:23:34.496 [info] I1228 14:23:34.496823 1274260 planner_generator.go:273] Requesting planner with 38 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 14:23:37.074 [info] (Antigravity) 2025-12-28 14:23:37.074 [INFO]: [Terminal] Command force exited: python3 update_config.py && echo "---" && grep -n "sh -c" /home/arope/.config/sway/config, with exit code 0
+2025-12-28 14:23:37.885 [info] I1228 14:23:37.884992 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xeb1e13eaa3e3c519
+2025-12-28 14:23:38.438 [info] I1228 14:23:38.438190 1274260 planner_generator.go:273] Requesting planner with 40 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 14:23:41.427 [info] I1228 14:23:41.427504 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x16fcf0041a30a4e5
+2025-12-28 14:23:43.255 [info] E1228 14:23:43.255028 1274260 log.go:362] failed to update code tracker for Codeium internal file
+2025-12-28 14:23:46.145 [info] E1228 14:23:46.145230 1274260 log.go:354] argument order was not respected: [TaskName Mode PredictedTaskSize] vs [Mode PredictedTaskSize TaskName TaskStatus TaskSummary]
+2025-12-28 14:23:47.326 [info] E1228 14:23:47.326320 1274260 log.go:362] path is not in a workspace which you have access to: either proceed without accessing that path, or ask the user if they are willing to turn off workspace validation
+2025-12-28 14:23:47.328 [info] I1228 14:23:47.328695 1274260 planner_generator.go:273] Requesting planner with 43 chat messages at model retry attempt 2 and API retry attempt 1
+2025-12-28 14:23:50.726 [info] I1228 14:23:50.726749 1274260 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x37e85d5a3195f2c5
+2025-12-28 14:23:53.224 [info] E1228 14:23:53.224078 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:23:53.248 [info] E1228 14:23:53.248005 1274260 log.go:354] argument order was not respected: [TargetFile] vs [ArtifactMetadata CodeMarkdownLanguage Complexity Description Instruction ReplacementChunks TargetFile]
+2025-12-28 14:27:50.336 [info] E1228 14:27:50.336478 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:27:53.264 [info] E1228 14:27:53.264232 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:31:32.288 [info] (Antigravity) 2025-12-28 14:31:32.288 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:31:32.880 [info] (Antigravity) 2025-12-28 14:31:32.880 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:31:42.364 [info] E1228 14:31:42.364238 1274260 interceptor.go:74] /exa.language_server_pb.LanguageServerService/HandleStreamingCommand (unknown): invalid position offset 2733: offset 2733 out of range [0, 2732]
+2025-12-28 14:35:20.490 [info] (Antigravity) 2025-12-28 14:35:20.490 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:35:24.245 [info] (Antigravity) 2025-12-28 14:35:24.245 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:35:26.342 [info] (Antigravity) 2025-12-28 14:35:26.342 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:35:28.346 [info] E1228 14:35:28.346544 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:35:28.385 [info] (Antigravity) 2025-12-28 14:35:28.384 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:45:28.199 [info] (Antigravity) 2025-12-28 14:45:28.199 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:45:29.578 [info] E1228 14:45:29.577946 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 14:48:42.224 [info] (Antigravity) 2025-12-28 14:48:42.224 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 14:53:23.359 [info] (Antigravity) 2025-12-28 14:53:23.359 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:33.787 [info] (Antigravity) 2025-12-28 15:01:33.787 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:39.385 [info] (Antigravity) 2025-12-28 15:01:39.385 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:39.984 [info] (Antigravity) 2025-12-28 15:01:39.984 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.022 [info] (Antigravity) 2025-12-28 15:01:40.022 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.062 [info] (Antigravity) 2025-12-28 15:01:40.062 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.102 [info] (Antigravity) 2025-12-28 15:01:40.102 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.141 [info] (Antigravity) 2025-12-28 15:01:40.141 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.181 [info] (Antigravity) 2025-12-28 15:01:40.181 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.221 [info] (Antigravity) 2025-12-28 15:01:40.221 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.262 [info] (Antigravity) 2025-12-28 15:01:40.262 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.302 [info] (Antigravity) 2025-12-28 15:01:40.302 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.342 [info] (Antigravity) 2025-12-28 15:01:40.341 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.382 [info] (Antigravity) 2025-12-28 15:01:40.382 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.422 [info] (Antigravity) 2025-12-28 15:01:40.422 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.462 [info] (Antigravity) 2025-12-28 15:01:40.462 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.501 [info] (Antigravity) 2025-12-28 15:01:40.501 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.543 [info] (Antigravity) 2025-12-28 15:01:40.543 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.582 [info] (Antigravity) 2025-12-28 15:01:40.582 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.623 [info] (Antigravity) 2025-12-28 15:01:40.623 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.663 [info] (Antigravity) 2025-12-28 15:01:40.663 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:40.795 [info] (Antigravity) 2025-12-28 15:01:40.795 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:41.025 [info] (Antigravity) 2025-12-28 15:01:41.025 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:01:41.372 [info] (Antigravity) 2025-12-28 15:01:41.372 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:16:05.010 [info] (Antigravity) 2025-12-28 15:16:05.010 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:16:05.370 [info] (Antigravity) 2025-12-28 15:16:05.370 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:19:32.506 [info] E1228 15:19:32.506650 1274260 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 15:27:10.258 [info] (Antigravity) 2025-12-28 15:27:10.258 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:29:01.313 [info] (Antigravity) 2025-12-28 15:29:01.313 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:29:01.730 [info] (Antigravity) 2025-12-28 15:29:01.730 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:32:03.470 [info] (Antigravity) 2025-12-28 15:32:03.470 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:32:04.236 [info] (Antigravity) 2025-12-28 15:32:04.236 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:34:41.174 [info] (Antigravity) 2025-12-28 15:34:41.174 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:37:53.630 [info] (Antigravity) 2025-12-28 15:37:53.630 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 15:38:40.471 [info] (Antigravity) 2025-12-28 15:38:40.470 [INFO]: [SupercompleteProvider] No supercomplete response

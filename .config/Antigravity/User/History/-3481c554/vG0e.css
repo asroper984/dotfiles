@@ -1,0 +1,58 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "JetBrainsMono Nerd Font";
+    font-size: 11px;
+    font-weight: bold;
+    min-height: 0;
+}
+
+window#waybar {
+    background: #000000;
+    color: #ffffff;
+}
+
+/* --- Workspaces --- */
+#workspaces {
+    background: #000000;
+    margin: 2px 5px;
+}
+
+#workspaces button {
+    padding: 0 8px;
+    background: transparent;
+    color: #888888;       /* Dimmed grey for inactive workspaces */
+    border-radius: 10px;  /* Pill shape */
+    margin-right: 2px;
+}
+
+/* BLUE Pill for Focused Workspace */
+#workspaces button.focused {
+    background: #3a86ff;  /* Bright Blue */
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+/* RED Pill for Urgent Workspace (Notification) */
+#workspaces button.urgent {
+    background: #ff4d4d;  /* Red */
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+#workspaces button:hover {
+    background: #333333;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+/* --- Modules --- */
+#clock, #pulseaudio, #network, #battery, #tray {
+    padding: 0 8px;
+    background: #000000;
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#battery.critical { color: #ff0000; }

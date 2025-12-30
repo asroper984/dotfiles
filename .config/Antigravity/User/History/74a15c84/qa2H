@@ -1,0 +1,100 @@
+# Start-Up Applications 
+
+exec waybar 
+exec_always ~/.local/themeswitcher/themeswitcher.sh
+
+# Modifers 
+
+set $mod_1 Control+Shift
+set $mod_2 Control+Mod1
+
+
+# Applications 
+
+set $menu fuzzel  
+set $terminal alacritty
+set $browser librewolf
+set $file_manager nautilus 
+
+# Customization  
+
+# Borders
+default_border pixel 1 
+
+
+# Wallpaper 
+
+output * bg ~/Pictures/Wallpapers/Wallheaven/bg1.jpg fill
+
+# Swayidle
+
+exec swayidle -w \
+          timeout 300 'swaylock -f -c 000000' \
+          timeout 600 'swaymsg "output * power off"' resume 'swaymsg "output * power on"' \
+          before-sleep 'swaylock -f -c 000000'  
+
+# Key Bindings 
+
+# Launchers 
+
+bindsym $mod_1+Space exec $menu 
+bindsym $mod_2+T exec $terminal 
+bindsym $mod_1+B exec $browser 
+bindsym $mod_1+F exec $file_manager 
+
+# Core Keybindings    
+
+bindsym $mod_1+Shift+q kill
+
+# Workspaces 
+
+# Switch to workspace
+bindsym $mod_1+1 workspace number 1
+bindsym $mod_1+2 workspace number 2
+bindsym $mod_1+3 workspace number 3
+bindsym $mod_1+4 workspace number 4
+bindsym $mod_1+5 workspace number 5
+bindsym $mod_1+6 workspace number 6
+bindsym $mod_1+7 workspace number 7
+bindsym $mod_1+8 workspace number 8
+bindsym $mod_1+9 workspace number 9
+bindsym $mod_1+0 workspace number 10
+
+# Move focused container to workspace
+bindsym $mod_2+1 move container to workspace number 1
+bindsym $mod_2+2 move container to workspace number 2
+bindsym $mod_2+3 move container to workspace number 3
+bindsym $mod_2+4 move container to workspace number 4
+bindsym $mod_2+5 move container to workspace number 5
+bindsym $mod_2+6 move container to workspace number 6
+bindsym $mod_2+7 move container to workspace number 7
+bindsym $mod_2+8 move container to workspace number 8
+bindsym $mod_2+9 move container to workspace number 9
+bindsym $mod_2+0 move container to workspace number 10
+# Layouts 
+bindsym $mod_1+y layout splitv
+bindsym $mod_2+y layout splith
+
+# Utilities 
+
+# Special keys to adjust volume via PulseAudio
+bindsym --locked XF86AudioMute exec pactl set-sink-mute \@DEFAULT_SINK@ toggle
+bindsym --locked XF86AudioLowerVolume exec pactl set-sink-volume \@DEFAULT_SINK@ -5%
+bindsym --locked XF86AudioRaiseVolume exec pactl set-sink-volume \@DEFAULT_SINK@ +5%
+bindsym --locked XF86AudioMicMute exec pactl set-source-mute \@DEFAULT_SOURCE@ toggle
+# Special keys to adjust brightness via brightnessctl
+bindsym --locked XF86MonBrightnessDown exec brightnessctl set 5%-
+bindsym --locked XF86MonBrightnessUp exec brightnessctl set 5%+
+# Special key to take a screenshot with grim
+bindsym Print exec grim
+
+# Screenshotting
+``
+bindsym mod_1+z exec sh -c 'mkdir -p ~/Pictures/Screenshots && grim -g "(slurp)" - | tee ~/Pictures/Screenshots/$(date +"%Y-%m-%d_%H-%M-%S").png | wl-copy --type image/png'
+#Inputs 
+
+input "type:pointer" {
+    accel_profile "flat"
+    pointer_accel 0
+}
+

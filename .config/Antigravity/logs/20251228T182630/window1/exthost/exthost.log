@@ -1,0 +1,31 @@
+2025-12-28 18:26:31.836 [info] Extension host with pid 10638 started
+2025-12-28 18:26:31.836 [info] Skipping acquiring lock for /home/arope/.config/Antigravity/User/workspaceStorage/e8b897232274056cb6de23f92cf55c15.
+2025-12-28 18:26:32.000 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-28 18:26:32.029 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-28 18:26:32.091 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-28 18:26:32.133 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-28 18:26:32.188 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-28 18:26:32.881 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-28 18:26:34.077 [info] Eager extensions activated
+2025-12-28 18:26:34.083 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 18:26:34.086 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 18:26:34.091 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 18:26:34.093 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 18:26:34.107 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 18:26:34.113 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 18:26:34.167 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 18:26:34.178 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 18:26:34.248 [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd, startup: false, activationEvent: 'onLanguage:cpp'
+2025-12-28 18:26:34.316 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-12-28 18:26:34.344 [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'onLanguage:cpp'
+2025-12-28 18:26:34.652 [error] Error: ENOENT: no such file or directory, rename '/home/arope/.gemini/antigravity/user_settings.pb.tmp.extHost' -> '/home/arope/.gemini/antigravity/user_settings.pb'
+	at async Object.rename (node:internal/original-fs/promises:784:10)
+	at async Jfe (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:5315)
+	at async Yfe.setAntigravitySettings (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6165)
+	at async m.updateUserSettings (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:767109)
+2025-12-28 18:26:34.846 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-28 18:26:34.854 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-28 18:26:34.864 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-12-28 18:26:34.901 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-12-28 18:26:56.340 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-28 18:26:56.355 [info] Extension host with pid 10638 exiting with code 0

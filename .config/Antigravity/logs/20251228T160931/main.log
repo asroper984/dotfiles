@@ -1,0 +1,11 @@
+2025-12-28 16:09:31.227 [info] Using Cloud Code URL: https://daily-cloudcode-pa.googleapis.com
+2025-12-28 16:09:31.228 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-28 16:09:31.228 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:35321
+2025-12-28 16:09:31.228 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-12-28 16:09:31.228 [info] update#setState idle
+2025-12-28 16:09:31.970 [info] AntigravityAuthMainService initialized
+2025-12-28 16:09:32.442 [info] Extension host with pid 1568 exited with code: 0, signal: unknown.
+2025-12-28 16:10:00.775 [info] update#setState checking for updates
+2025-12-28 16:10:05.921 [info] update#setState idle
+2025-12-28 17:10:00.777 [info] update#setState checking for updates
+2025-12-28 17:10:05.869 [info] update#setState idle

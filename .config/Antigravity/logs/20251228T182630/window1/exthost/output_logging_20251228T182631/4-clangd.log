@@ -1,0 +1,23 @@
+I[18:26:34.422] clangd version 21.1.6
+I[18:26:34.422] Features: linux
+I[18:26:34.422] PID: 10949
+I[18:26:34.422] Working directory: /home/arope/.config
+I[18:26:34.422] argv[0]: /usr/bin/clangd
+I[18:26:34.423] Starting LSP over stdin/stdout
+I[18:26:34.427] <-- initialize(0)
+I[18:26:34.434] --> reply:initialize(0) 6 ms
+I[18:26:34.436] <-- initialized
+I[18:26:34.442] <-- textDocument/didOpen
+I[18:26:34.449] Failed to find compilation database for /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp
+I[18:26:34.449] ASTWorker building file /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp version 1 with command clangd fallback
+[/home/arope/Documents/Code/cpp/sa_integral_calc]
+/usr/bin/clang -resource-dir=/usr/lib/clang/21 -- /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp
+I[18:26:34.478] --> textDocument/clangd.fileStatus
+I[18:26:34.898] Built preamble of size 4097352 for file /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp version 1 in 0.42 seconds
+I[18:26:34.899] --> workspace/semanticTokens/refresh(0)
+I[18:26:34.900] Indexing c++17 standard library in the context of /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp
+I[18:26:34.926] <-- reply(0)
+I[18:26:34.943] --> textDocument/publishDiagnostics
+I[18:26:34.943] --> textDocument/inactiveRegions
+I[18:26:34.944] --> textDocument/clangd.fileStatus
+I[18:26:35.905] Indexed c++17 standard library (incomplete due to errors): 14012 symbols, 11705 filtered

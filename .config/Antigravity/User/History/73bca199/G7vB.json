@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.fontSize": 12,
+  "window.autoDetectColorScheme": true,
+  "workbench.preferredDarkColorTheme": "GitHub Dark Dimmed",
+  "workbench.preferredHighContrastLightColorTheme": "GitHub Light",
+  "workbench.preferredLightColorTheme": "GitHub Light Default",
+  "window.autoDetectHighContrast": false
+}

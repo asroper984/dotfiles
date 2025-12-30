@@ -1,0 +1,86 @@
+2025-12-28 09:01:21.214 [info] Extension host with pid 681104 started
+2025-12-28 09:01:21.214 [info] Skipping acquiring lock for /home/arope/.config/Antigravity/User/workspaceStorage/5d9e283b5a9a80aae3cb6bd75c8c4d33.
+2025-12-28 09:01:21.336 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-28 09:01:21.367 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-28 09:01:21.400 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-28 09:01:21.442 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-28 09:01:21.496 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-28 09:01:21.963 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-28 09:01:26.967 [error] Error: ENOENT: no such file or directory, rename '/home/arope/.gemini/antigravity/user_settings.pb.tmp.extHost' -> '/home/arope/.gemini/antigravity/user_settings.pb'
+	at async Object.rename (node:internal/original-fs/promises:784:10)
+	at async Jfe (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:5315)
+	at async Yfe.setAntigravitySettings (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6165)
+	at async m.updateUserSettings (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:767109)
+2025-12-28 09:01:27.721 [info] Eager extensions activated
+2025-12-28 09:01:27.725 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:27.733 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:27.739 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:27.745 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:27.764 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:27.856 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:27.870 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:40.866 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-28 09:01:40.877 [info] Extension host with pid 681104 exiting with code 0
+2025-12-28 09:01:43.118 [info] Extension host with pid 688772 started
+2025-12-28 09:01:43.118 [info] Skipping acquiring lock for /home/arope/.config/Antigravity/User/workspaceStorage/6844d24c1f2265774b34cd60a369fd5f.
+2025-12-28 09:01:43.169 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-28 09:01:43.289 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-28 09:01:43.310 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: google.antigravity
+2025-12-28 09:01:43.313 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-28 09:01:43.390 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-12-28 09:01:43.449 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-12-28 09:01:43.644 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-12-28 09:01:43.796 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*', root cause: google.antigravity
+2025-12-28 09:01:43.909 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-12-28 09:01:44.176 [info] ExtensionService#_doActivateExtension google.antigravity, startup: false, activationEvent: '*'
+2025-12-28 09:01:46.566 [info] Eager extensions activated
+2025-12-28 09:01:46.576 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:46.580 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:46.586 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:46.587 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:46.608 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:46.685 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:01:46.704 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:02:39.983 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-28 09:02:41.183 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-12-28 09:02:48.175 [info] ExtensionService#_doActivateExtension franneck94.c-cpp-runner, startup: false, activationEvent: 'onLanguage:cpp'
+2025-12-28 09:02:48.222 [info] ExtensionService#_doActivateExtension llvm-vs-code-extensions.vscode-clangd, startup: false, activationEvent: 'onLanguage:cpp'
+2025-12-28 09:03:06.721 [error] Error: ENOENT: no such file or directory, rename '/home/arope/.gemini/antigravity/user_settings.pb.tmp.extHost' -> '/home/arope/.gemini/antigravity/user_settings.pb'
+	at async Object.rename (node:internal/original-fs/promises:784:10)
+	at async Jfe (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:5315)
+	at async Yfe.setAntigravitySettings (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6165)
+	at async m.updateUserSettings (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:767109)
+2025-12-28 09:10:28.830 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:10:28.830 [error] {"a":true,"b":null}
+2025-12-28 09:13:38.620 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-12-28 09:18:40.334 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:18:40.334 [error] {"a":true,"b":null}
+2025-12-28 09:18:42.983 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:18:42.984 [error] {"a":true,"b":null}
+2025-12-28 09:18:51.189 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:18:51.189 [error] {"a":true,"b":null}
+2025-12-28 09:19:06.517 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:19:06.517 [error] {"a":true,"b":null}
+2025-12-28 09:19:07.367 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:19:07.367 [error] {"a":true,"b":null}
+2025-12-28 09:19:50.990 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:19:50.990 [error] {"a":true,"b":null}
+2025-12-28 09:22:57.348 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:22:57.348 [error] {"a":true,"b":null}
+2025-12-28 09:25:46.018 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:25:46.018 [error] {"a":true,"b":null}
+2025-12-28 09:28:20.794 [error] [llvm-vs-code-extensions.vscode-clangd] provider FAILED
+2025-12-28 09:28:20.794 [error] {"a":true,"b":null}
+2025-12-28 14:15:27.422 [error] Error: ENOENT: no such file or directory, rename '/home/arope/.gemini/antigravity/user_settings.pb.tmp.extHost' -> '/home/arope/.gemini/antigravity/user_settings.pb'
+	at async Object.rename (node:internal/original-fs/promises:784:10)
+	at async Jfe (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:5315)
+	at async Yfe.setAntigravitySettings (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6165)
+	at async m.updateUserSettings (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:767109)
+2025-12-28 14:15:55.227 [error] Error: ENOENT: no such file or directory, rename '/home/arope/.gemini/antigravity/user_settings.pb.tmp.extHost' -> '/home/arope/.gemini/antigravity/user_settings.pb'
+	at async Object.rename (node:internal/original-fs/promises:784:10)
+	at async Jfe (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:5315)
+	at async Yfe.setAntigravitySettings (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:6165)
+	at async m.updateUserSettings (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:767109)
+2025-12-28 14:20:49.901 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-28 14:20:51.117 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-28 14:20:51.142 [info] Extension host with pid 688772 exiting with code 0

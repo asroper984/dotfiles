@@ -1,0 +1,126 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "650de747c8b844f47d9e6199da395e598c1738c2ffdd4b7ae86c6581543bb396",
+    "telemetry.devDeviceId": "f209c738-8bf0-4a18-b228-971d9cfd09aa",
+    "backupWorkspaces": {
+        "workspaces": [
+            {
+                "id": "e8b897232274056cb6de23f92cf55c15",
+                "configURIPath": "file:///home/arope/.config/Antigravity/Workspaces/1766956903775/workspace.json"
+            }
+        ],
+        "folders": [
+            {
+                "folderUri": "file:///home/arope/Documents"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1767058908479"
+            },
+            {
+                "backupFolder": "1767059006125"
+            },
+            {
+                "backupFolder": "1767059042187"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/arope/.config": "__default__profile__",
+            "file:///home/arope/.config/Antigravity/Workspaces/1766956903775/workspace.json": "__default__profile__",
+            "file:///home/arope/Documents": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1767058908479": "__default__profile__",
+            "1767059006125": "__default__profile__",
+            "1767059042187": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "workspaceIdentifier": {
+                "id": "e8b897232274056cb6de23f92cf55c15",
+                "configURIPath": "file:///home/arope/.config/Antigravity/Workspaces/1766956903775/workspace.json"
+            },
+            "backupPath": "/home/arope/.config/Antigravity/Backups/e8b897232274056cb6de23f92cf55c15",
+            "uiState": {
+                "mode": 0,
+                "x": 1,
+                "y": 21,
+                "width": 1278,
+                "height": 1418
+            }
+        },
+        "openedWindows": []
+    },
+    "unifiedStateSync.hasTrajectorySummariesMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasPlanningModeMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasArtifactReviewPolicyMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasTerminalAutoExecutionPolicyMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasTerminalAllowedCommandsMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasTerminalDeniedCommandsMigrated": true,
+    "antigravityUnifiedStateSync.agentPreferences.hasAgentFileAccessMigration": true,
+    "antigravityUnifiedStateSync.editorPreferences.hasShowSelectionPopupMigrated": true,
+    "antigravityUnifiedStateSync.editorPreferences.hasDemoModeEnabledMigrated": true,
+    "theme": "vs-dark",
+    "themeBackground": "#22272e",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#adbac7",
+            "background": "#22272e",
+            "editorBackground": "#22272e",
+            "titleBarBackground": "#22272e",
+            "titleBarBorder": "#444c56",
+            "activityBarBackground": "#22272e",
+            "activityBarBorder": "#444c56",
+            "sideBarBackground": "#1c2128",
+            "sideBarBorder": "#444c56",
+            "statusBarBackground": "#22272e",
+            "statusBarBorder": "#444c56",
+            "statusBarNoFolderBackground": "#22272e"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 42,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "antigravityUnifiedStateSync.tabPreferences.hasMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasBrowserAllowlistMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasBrowserLaunchPreferencesMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasAddedLocalhostToAllowlist": true,
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "5d9e283b5a9a80aae3cb6bd75c8c4d33": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "6844d24c1f2265774b34cd60a369fd5f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "e8b897232274056cb6de23f92cf55c15": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "0feb241d756d4eff023dfce927e04b07": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

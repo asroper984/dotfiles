@@ -1,0 +1,52 @@
+2025-12-28 09:01:21.917 [info] 2025/12/28 09:01:21 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-28 09:01:21.943 [info] I1228 09:01:21.943785 681263 server.go:1167] Starting language server process with pid 681263
+2025-12-28 09:01:21.943 [info] I1228 09:01:21.943820 681263 server.go:284] Setting GOMAXPROCS to 4
+2025-12-28 09:01:21.945 [info] I1228 09:01:21.945423 681263 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-28 09:01:21.945 [info] I1228 09:01:21.945603 681263 server.go:506] Language server listening on random port at 42049 for HTTPS
+2025-12-28 09:01:21.945 [info] I1228 09:01:21.945639 681263 server.go:513] Language server listening on random port at 38463 for HTTP
+2025-12-28 09:01:23.636 [info] I1228 09:01:23.636099 681263 server.go:484] Created extension server client at port 43923
+2025-12-28 09:01:23.640 [info] W1228 09:01:23.640166 681263 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 09:01:23.646 [info] W1228 09:01:23.645965 681263 client.go:135] failed to set auth token
+2025-12-28 09:01:23.646 [info] W1228 09:01:23.646229 681263 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 09:01:23.654 [info] (Antigravity) 2025-12-28 09:01:23.654 [INFO]: Language server started
+2025-12-28 09:01:23.658 [info] I1228 09:01:23.657967 681263 server.go:1496] initialized server successfully
+2025-12-28 09:01:23.693 [info] 2025/12/28 09:01:23 http: TLS handshake error from 127.0.0.1:36628: EOF
+2025-12-28 09:01:23.714 [info] (Antigravity) 2025-12-28 09:01:23.714 [INFO]: LS lspClient started successfully
+2025-12-28 09:01:45.504 [info] 2025/12/28 09:01:45 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-28 09:01:45.577 [info] I1228 09:01:45.577351 689079 server.go:1167] Starting language server process with pid 689079
+2025-12-28 09:01:45.580 [info] I1228 09:01:45.577394 689079 server.go:284] Setting GOMAXPROCS to 4
+2025-12-28 09:01:45.581 [info] I1228 09:01:45.579976 689079 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-28 09:01:45.587 [info] I1228 09:01:45.581884 689079 server.go:506] Language server listening on random port at 45559 for HTTPS
+2025-12-28 09:01:45.587 [info] I1228 09:01:45.581924 689079 server.go:513] Language server listening on random port at 38315 for HTTP
+2025-12-28 09:01:45.723 [info] I1228 09:01:45.723385 689079 server.go:484] Created extension server client at port 45541
+2025-12-28 09:01:45.804 [info] W1228 09:01:45.803991 689079 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 09:01:45.843 [info] W1228 09:01:45.843427 689079 client.go:135] failed to set auth token
+2025-12-28 09:01:45.844 [info] W1228 09:01:45.843893 689079 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 09:01:45.868 [info] (Antigravity) 2025-12-28 09:01:45.868 [INFO]: Language server started
+2025-12-28 09:01:45.878 [info] I1228 09:01:45.877701 689079 server.go:1496] initialized server successfully
+2025-12-28 09:01:45.999 [info] 2025/12/28 09:01:45 http: TLS handshake error from 127.0.0.1:35582: EOF
+2025-12-28 09:01:46.031 [info] (Antigravity) 2025-12-28 09:01:46.031 [INFO]: LS lspClient started successfully
+2025-12-28 09:10:07.377 [info] E1228 09:10:07.377192 689079 log.go:354] encountered conflicting override on experiment: cascade-knowledge-config
+2025-12-28 09:10:07.396 [info] I1228 09:10:07.396749 689079 planner_generator.go:273] Requesting planner with 3 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 09:10:10.917 [info] I1228 09:10:10.917305 689079 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x29c5c8ea0e0c1627
+2025-12-28 09:10:14.323 [info] I1228 09:10:14.323528 689079 planner_generator.go:273] Requesting planner with 4 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 09:10:14.706 [info] I1228 09:10:14.706655 689079 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xb422624199f09eb7
+2025-12-28 09:10:17.599 [info] I1228 09:10:17.598899 689079 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x8d2b7afeb64f0e8e
+2025-12-28 09:10:28.769 [info] E1228 09:10:28.768920 689079 log.go:354] argument order was not respected: [TargetFile] vs [AllowMultiple CodeMarkdownLanguage Complexity Description EndLine Instruction ReplacementContent StartLine TargetContent TargetFile]
+2025-12-28 09:10:29.580 [info] I1228 09:10:29.580289 689079 planner_generator.go:273] Requesting planner with 6 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 09:10:33.174 [info] I1228 09:10:33.174166 689079 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x8dd64805060a9bc9
+2025-12-28 09:10:35.508 [info] I1228 09:10:35.507800 689079 planner_generator.go:273] Requesting planner with 8 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-28 09:10:38.945 [info] I1228 09:10:38.945213 689079 http_helpers.go:129] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xa8a5a71ba8770d84
+2025-12-28 09:16:03.641 [info] (Antigravity) 2025-12-28 09:16:03.640 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:16:07.271 [info] (Antigravity) 2025-12-28 09:16:07.271 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:17:52.403 [info] (Antigravity) 2025-12-28 09:17:52.402 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:17:53.759 [info] (Antigravity) 2025-12-28 09:17:53.759 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:17:55.183 [info] (Antigravity) 2025-12-28 09:17:55.183 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:22:36.726 [info] (Antigravity) 2025-12-28 09:22:36.726 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:25:23.741 [info] (Antigravity) 2025-12-28 09:25:23.741 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:25:25.191 [info] (Antigravity) 2025-12-28 09:25:25.191 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:25:25.338 [info] (Antigravity) 2025-12-28 09:25:25.338 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:25:25.501 [info] (Antigravity) 2025-12-28 09:25:25.501 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:31:52.465 [info] (Antigravity) 2025-12-28 09:31:52.465 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:31:53.414 [info] (Antigravity) 2025-12-28 09:31:53.414 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 09:34:10.391 [info] (Antigravity) 2025-12-28 09:34:10.391 [INFO]: [SupercompleteProvider] No supercomplete response

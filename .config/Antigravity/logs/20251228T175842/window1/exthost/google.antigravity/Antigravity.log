@@ -1,0 +1,57 @@
+2025-12-28 17:58:49.111 [info] 2025/12/28 17:58:49 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-28 17:58:49.261 [info] I1228 17:58:49.261314  4228 server.go:1167] Starting language server process with pid 4228
+2025-12-28 17:58:49.261 [info] I1228 17:58:49.261891  4228 server.go:284] Setting GOMAXPROCS to 4
+2025-12-28 17:58:49.267 [info] I1228 17:58:49.267665  4228 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-28 17:58:49.268 [info] I1228 17:58:49.268538  4228 server.go:506] Language server listening on random port at 37361 for HTTPS
+2025-12-28 17:58:49.268 [info] I1228 17:58:49.268562  4228 server.go:513] Language server listening on random port at 45849 for HTTP
+2025-12-28 17:58:49.544 [info] I1228 17:58:49.544159  4228 server.go:484] Created extension server client at port 39303
+2025-12-28 17:58:49.583 [info] W1228 17:58:49.583088  4228 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 17:58:49.644 [info] (Antigravity) 2025-12-28 17:58:49.644 [INFO]: Language server started
+2025-12-28 17:58:49.647 [info] W1228 17:58:49.641554  4228 client.go:135] failed to set auth token
+2025-12-28 17:58:49.647 [info] W1228 17:58:49.641926  4228 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-28 17:58:49.647 [info] I1228 17:58:49.647700  4228 server.go:1496] initialized server successfully
+2025-12-28 17:58:49.680 [info] 2025/12/28 17:58:49 http: TLS handshake error from 127.0.0.1:59602: EOF
+2025-12-28 17:58:49.686 [info] (Antigravity) 2025-12-28 17:58:49.686 [INFO]: LS lspClient started successfully
+2025-12-28 18:00:35.227 [info] (Antigravity) 2025-12-28 18:00:35.227 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:01:10.014 [info] (Antigravity) 2025-12-28 18:01:10.013 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:01:17.343 [info] (Antigravity) 2025-12-28 18:01:17.343 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:01:20.373 [info] (Antigravity) 2025-12-28 18:01:20.373 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:01:56.808 [info] (Antigravity) 2025-12-28 18:01:56.808 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:01:57.649 [info] (Antigravity) 2025-12-28 18:01:57.649 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:02:10.942 [info] (Antigravity) 2025-12-28 18:02:10.941 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:02:15.712 [info] (Antigravity) 2025-12-28 18:02:15.712 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:04:13.966 [info] E1228 18:04:13.966421  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:14.466 [info] E1228 18:04:14.466679  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:15.224 [info] E1228 18:04:15.224840  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:15.725 [info] E1228 18:04:15.724904  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:16.677 [info] E1228 18:04:16.677250  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:17.653 [info] E1228 18:04:17.653648  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:18.569 [info] E1228 18:04:18.569087  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:19.070 [info] E1228 18:04:19.069891  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:19.461 [info] E1228 18:04:19.461702  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:21.712 [info] E1228 18:04:21.712620  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:24.260 [info] E1228 18:04:24.260119  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:24.760 [info] E1228 18:04:24.760402  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:25.792 [info] E1228 18:04:25.792045  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:26.293 [info] E1228 18:04:26.293119  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:28.178 [info] E1228 18:04:28.177989  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:28.840 [info] E1228 18:04:28.840090  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:29.434 [info] E1228 18:04:29.434113  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:29.934 [info] E1228 18:04:29.934209  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:30.709 [info] E1228 18:04:30.709144  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:31.209 [info] E1228 18:04:31.209281  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:31.736 [info] E1228 18:04:31.736739  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:32.704 [info] E1228 18:04:32.703980  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:33.576 [info] E1228 18:04:33.576037  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:34.077 [info] E1228 18:04:34.077089  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:34.819 [info] E1228 18:04:34.819106  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:35.319 [info] E1228 18:04:35.319721  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:35.550 [info] E1228 18:04:35.549993  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:38.265 [info] E1228 18:04:38.265149  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:38.766 [info] E1228 18:04:38.765859  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:39.047 [info] E1228 18:04:39.047129  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:04:57.751 [info] (Antigravity) 2025-12-28 18:04:57.751 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:04:58.255 [info] (Antigravity) 2025-12-28 18:04:58.255 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-28 18:05:34.072 [info] E1228 18:05:34.072551  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:05:40.715 [info] E1228 18:05:40.715833  4228 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-28 18:09:07.688 [info] (Antigravity) 2025-12-28 18:09:07.688 [INFO]: [SupercompleteProvider] No supercomplete response

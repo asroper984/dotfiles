@@ -1,0 +1,69 @@
+2025-12-28 09:01:20.485 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.496 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.496 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.496 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.496 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.496 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.496 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.497 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.497 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.497 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.497 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.497 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.497 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.498 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.498 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-12-28 09:01:20.803 [info] Started local extension host with pid 681104.
+2025-12-28 09:01:21.089 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-12-28 09:01:21.090 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2025-12-28 09:01:21.091 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2025-12-28 09:01:21.091 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2025-12-28 09:01:21.102 [error] Ignoring clangd.onConfigChanged.forceEnable as clangd.onConfigChanged is "prompt"
+2025-12-28 09:01:21.148 [error] Ignoring clangd.onConfigChanged.forceEnable as clangd.onConfigChanged is "prompt"
+2025-12-28 09:01:21.772 [error] [Extension Host] Failed to update user status Error: LanguageServerClient must be initialized first!
+	at B.getInstance (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:213760)
+	at a.updateUserStatus (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1254734)
+	at a.restartUpdateLoop (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1255225)
+	at t.activate (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:164409)
+	at async Hy.n (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14106)
+	at async Hy.m (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14069)
+	at async Hy.l (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:13525)
+2025-12-28 09:01:26.969 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-28 09:01:40.904 [error] Ignoring clangd.onConfigChanged.forceEnable as clangd.onConfigChanged is "prompt"
+2025-12-28 09:01:42.389 [info] Started local extension host with pid 688772.
+2025-12-28 09:01:43.999 [error] Canceled: Canceled
+    at new sau (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6892:34119)
+    at yfs.U (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6892:38771)
+    at s.<computed>.r.charCodeAt.s.<computed> (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6892:36256)
+    at Hso.getSessions (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3626:68327)
+    at hLn.getSessions (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4215:27053)
+    at gLn.Wb (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4215:45258)
+    at vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4215:43544
+    at Array.map (<anonymous>)
+    at gLn.Rb (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4215:43532)
+    at vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4215:43439
+2025-12-28 09:01:45.225 [error] [Extension Host] Failed to update user status Error: LanguageServerClient must be initialized first!
+	at B.getInstance (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:213760)
+	at a.updateUserStatus (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1254734)
+	at a.restartUpdateLoop (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:1255225)
+	at t.activate (/opt/Antigravity/resources/app/extensions/antigravity/dist/extension.js:2:164409)
+	at async Hy.n (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14106)
+	at async Hy.m (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:14069)
+	at async Hy.l (file:///opt/Antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:113:13525)
+2025-12-28 09:02:41.183 [error] [Extension Host] (node:688772) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-28 09:03:06.721 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-28 09:10:57.550 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at zE.C (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3194:29564)
+    at zE.updateChildren (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3194:29345)
+    at mni.value (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:5609:35093)
+    at V.C (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2791:2395)
+    at V.D (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2791:2465)
+    at V.fire (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2791:2683)
+    at bRi.setVisible (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3599:2708)
+    at vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3625:14410
+    at Array.map (<anonymous>)
+    at gv.setVisible (vscode-file://vscode-app/opt/Antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3625:14401)
+2025-12-28 14:15:27.423 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-28 14:15:55.228 [error] An unknown error occurred. Please consult the log for more details.
+2025-12-28 14:20:49.921 [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)

@@ -1,0 +1,12 @@
+2025-12-28 18:26:30.327 [info] Using Cloud Code URL: https://daily-cloudcode-pa.googleapis.com
+2025-12-28 18:26:30.332 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-28 18:26:30.335 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:34279
+2025-12-28 18:26:30.335 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-12-28 18:26:30.437 [info] update#setState idle
+2025-12-28 18:26:31.089 [info] AntigravityAuthMainService initialized
+2025-12-28 18:26:34.251 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/arope/.config/Antigravity/Workspaces/1766956903775/workspace.json
+2025-12-28 18:26:34.251 [info] [AgentClientServer] Starting server
+2025-12-28 18:26:34.253 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-28 18:26:34.254 [info] [AgentClientServer] Cascade server started on http://localhost:9092
+2025-12-28 18:26:34.254 [info] [AgentClientServer] Cascade server started on port 9092
+2025-12-28 18:26:56.356 [info] Extension host with pid 10638 exited with code: 0, signal: unknown.

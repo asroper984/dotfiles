@@ -1,0 +1,40 @@
+2025-12-29 20:44:04.270 [info] 2025/12/29 20:44:04 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-29 20:44:04.563 [info] I1229 20:44:04.472956 62560 server.go:1167] Starting language server process with pid 62560
+2025-12-29 20:44:04.563 [info] I1229 20:44:04.472989 62560 server.go:284] Setting GOMAXPROCS to 4
+2025-12-29 20:44:04.563 [info] I1229 20:44:04.506555 62560 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-29 20:44:04.563 [info] I1229 20:44:04.506730 62560 server.go:506] Language server listening on random port at 41119 for HTTPS
+2025-12-29 20:44:04.563 [info] I1229 20:44:04.506756 62560 server.go:513] Language server listening on random port at 39955 for HTTP
+2025-12-29 20:44:04.628 [info] I1229 20:44:04.628233 62560 server.go:484] Created extension server client at port 38291
+2025-12-29 20:44:04.643 [info] W1229 20:44:04.643213 62560 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-29 20:44:04.662 [info] W1229 20:44:04.661516 62560 client.go:135] failed to set auth token
+2025-12-29 20:44:04.662 [info] W1229 20:44:04.661854 62560 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-29 20:44:04.671 [info] (Antigravity) 2025-12-29 20:44:04.670 [INFO]: Language server started
+2025-12-29 20:44:04.747 [info] I1229 20:44:04.746325 62560 server.go:1496] initialized server successfully
+2025-12-29 20:44:04.821 [info] (Antigravity) 2025-12-29 20:44:04.821 [INFO]: LS lspClient started successfully
+2025-12-29 20:44:10.494 [info] 2025/12/29 20:44:10 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-29 20:44:10.567 [info] I1229 20:44:10.531548 63141 server.go:1167] Starting language server process with pid 63141
+2025-12-29 20:44:10.609 [info] I1229 20:44:10.531583 63141 server.go:284] Setting GOMAXPROCS to 4
+2025-12-29 20:44:10.609 [info] I1229 20:44:10.533477 63141 server.go:491] Language server will attempt to listen on host 127.0.0.1
+2025-12-29 20:44:10.609 [info] I1229 20:44:10.533640 63141 server.go:506] Language server listening on random port at 42821 for HTTPS
+2025-12-29 20:44:10.609 [info] I1229 20:44:10.533667 63141 server.go:513] Language server listening on random port at 39885 for HTTP
+2025-12-29 20:44:10.661 [info] I1229 20:44:10.661526 63141 server.go:484] Created extension server client at port 33265
+2025-12-29 20:44:10.683 [info] W1229 20:44:10.682967 63141 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-29 20:44:10.719 [info] (Antigravity) 2025-12-29 20:44:10.719 [INFO]: Language server started
+2025-12-29 20:44:10.721 [info] W1229 20:44:10.716521 63141 client.go:135] failed to set auth token
+2025-12-29 20:44:10.721 [info] W1229 20:44:10.717029 63141 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-29 20:44:10.721 [info] I1229 20:44:10.720887 63141 server.go:1496] initialized server successfully
+2025-12-29 20:44:10.775 [info] 2025/12/29 20:44:10 http: TLS handshake error from 127.0.0.1:41658: EOF
+2025-12-29 20:44:10.792 [info] 2025/12/29 20:44:10 http: TLS handshake error from 127.0.0.1:41662: EOF
+2025-12-29 20:44:10.812 [info] (Antigravity) 2025-12-29 20:44:10.812 [INFO]: LS lspClient started successfully
+2025-12-29 20:44:30.356 [info] (Antigravity) 2025-12-29 20:44:30.356 [INFO]: [Terminal] Command completed:  exit code 0
+2025-12-29 20:44:31.673 [info] (Antigravity) 2025-12-29 20:44:31.673 [INFO]: [Terminal] Command completed:  exit code 0
+2025-12-29 20:44:44.947 [info] (Antigravity) 2025-12-29 20:44:44.947 [INFO]: [Terminal] Command completed:  exit code 0
+2025-12-29 20:44:55.060 [info] (Antigravity) 2025-12-29 20:44:55.060 [INFO]: [Terminal] Command completed:  exit code 0
+2025-12-29 20:45:08.539 [info] (Antigravity) 2025-12-29 20:45:08.539 [INFO]: [Terminal] Command completed:  exit code 1
+2025-12-29 20:45:12.951 [info] (Antigravity) 2025-12-29 20:45:12.951 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-29 20:45:14.041 [info] (Antigravity) 2025-12-29 20:45:14.040 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-29 20:45:21.061 [info] (Antigravity) 2025-12-29 20:45:21.060 [INFO]: [Terminal] Command completed:  exit code 1
+2025-12-29 20:45:38.716 [info] E1229 20:45:38.716289 63141 log.go:354] encountered conflicting override on experiment: cascade-knowledge-config
+2025-12-29 20:45:38.857 [info] I1229 20:45:38.856289 63141 planner_generator.go:273] Requesting planner with 3 chat messages at model retry attempt 1 and API retry attempt 1
+2025-12-29 20:45:39.325 [info] I1229 20:45:39.324914 63141 server.go:1612] Exit requested on language server process 63141
+2025-12-29 20:45:39.325 [info] I1229 20:45:39.324962 63141 server.go:1577] Language server shutting down

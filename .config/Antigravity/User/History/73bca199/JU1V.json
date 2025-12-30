@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.preferredDarkColorTheme": "GitHub Dark Dimmed",
+  "workbench.preferredHighContrastLightColorTheme": "GitHub Light",
+  "workbench.preferredLightColorTheme": "GitHub Light Default",
+  "window.autoDetectHighContrast": false,
+  "files.autoSave": "onFocusChange"
+}

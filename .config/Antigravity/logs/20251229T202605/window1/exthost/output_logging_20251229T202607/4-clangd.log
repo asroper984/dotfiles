@@ -1,0 +1,36 @@
+I[20:26:10.498] clangd version 21.1.6
+I[20:26:10.498] Features: linux
+I[20:26:10.498] PID: 50274
+I[20:26:10.498] Working directory: /home/arope/.config
+I[20:26:10.498] argv[0]: /usr/bin/clangd
+I[20:26:10.499] Starting LSP over stdin/stdout
+I[20:26:10.504] <-- initialize(0)
+I[20:26:10.510] --> reply:initialize(0) 6 ms
+I[20:26:10.512] <-- initialized
+I[20:26:10.519] <-- textDocument/didOpen
+I[20:26:10.524] Failed to find compilation database for /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp
+I[20:26:10.524] ASTWorker building file /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp version 1 with command clangd fallback
+[/home/arope/Documents/Code/cpp/sa_integral_calc]
+/usr/bin/clang -resource-dir=/usr/lib/clang/21 -- /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp
+I[20:26:10.551] --> textDocument/clangd.fileStatus
+I[20:26:10.994] Built preamble of size 4097352 for file /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp version 1 in 0.44 seconds
+I[20:26:10.995] --> workspace/semanticTokens/refresh(0)
+I[20:26:10.995] --> textDocument/clangd.fileStatus
+I[20:26:10.996] <-- reply(0)
+I[20:26:10.996] Indexing c++17 standard library in the context of /home/arope/Documents/Code/cpp/sa_integral_calc/main.cpp
+I[20:26:11.046] --> textDocument/publishDiagnostics
+I[20:26:11.046] --> textDocument/inactiveRegions
+I[20:26:11.047] --> textDocument/clangd.fileStatus
+I[20:26:12.253] Indexed c++17 standard library (incomplete due to errors): 14012 symbols, 11705 filtered
+I[20:29:10.162] <-- textDocument/didClose
+I[20:29:10.162] --> textDocument/publishDiagnostics
+I[20:38:18.075] <-- $/setTrace
+I[20:38:18.075] unhandled notification $/setTrace
+I[20:42:29.287] <-- $/setTrace
+I[20:42:29.287] unhandled notification $/setTrace
+I[20:43:19.098] <-- $/setTrace
+I[20:43:19.098] unhandled notification $/setTrace
+I[20:43:48.821] <-- $/setTrace
+I[20:43:48.821] unhandled notification $/setTrace
+I[20:44:08.989] <-- $/setTrace
+I[20:44:08.989] unhandled notification $/setTrace

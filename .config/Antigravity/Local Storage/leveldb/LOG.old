@@ -1,0 +1,125 @@
+2025/12/29-20:26:05.935 c27b Reusing MANIFEST /home/arope/.config/Antigravity/Local Storage/leveldb/MANIFEST-000001
+2025/12/29-20:26:05.950 c27b Recovering log #77
+2025/12/29-20:26:05.953 c27b Level-0 table #79: started
+2025/12/29-20:26:05.957 c27b Level-0 table #79: 32778 bytes OK
+2025/12/29-20:26:05.963 c27b Delete type=0 #77
+2025/12/29-20:27:05.967 c27c Level-0 table #82: started
+2025/12/29-20:27:05.970 c27c Level-0 table #82: 32524 bytes OK
+2025/12/29-20:27:05.974 c27c Delete type=0 #80
+2025/12/29-20:27:05.974 c27c Compacting 4@0 + 1@1 files
+2025/12/29-20:27:05.977 c27c Generated table #83@0: 4 keys, 32626 bytes
+2025/12/29-20:27:05.977 c27c Compacted 4@0 + 1@1 files => 32626 bytes
+2025/12/29-20:27:05.980 c27c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/29-20:27:05.981 c27c Delete type=2 #82
+2025/12/29-20:27:05.981 c27c Delete type=2 #74
+2025/12/29-20:27:05.981 c27c Delete type=2 #72
+2025/12/29-20:27:05.981 c27c Delete type=2 #79
+2025/12/29-20:27:05.981 c27c Delete type=2 #76
+2025/12/29-20:28:06.724 c27c Level-0 table #85: started
+2025/12/29-20:28:06.727 c27c Level-0 table #85: 31992 bytes OK
+2025/12/29-20:28:06.731 c27c Delete type=0 #81
+2025/12/29-20:29:06.724 c27c Level-0 table #87: started
+2025/12/29-20:29:06.727 c27c Level-0 table #87: 32616 bytes OK
+2025/12/29-20:29:06.731 c27c Delete type=0 #84
+2025/12/29-20:30:06.724 c27c Level-0 table #89: started
+2025/12/29-20:30:06.728 c27c Level-0 table #89: 32858 bytes OK
+2025/12/29-20:30:06.731 c27c Delete type=0 #86
+2025/12/29-20:31:06.724 c27c Level-0 table #91: started
+2025/12/29-20:31:06.727 c27c Level-0 table #91: 32195 bytes OK
+2025/12/29-20:31:06.731 c27c Delete type=0 #88
+2025/12/29-20:31:06.731 c27c Compacting 4@0 + 1@1 files
+2025/12/29-20:31:06.734 c27c Generated table #92@0: 4 keys, 32191 bytes
+2025/12/29-20:31:06.734 c27c Compacted 4@0 + 1@1 files => 32191 bytes
+2025/12/29-20:31:06.737 c27c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/29-20:31:06.738 c27c Delete type=2 #91
+2025/12/29-20:31:06.738 c27c Delete type=2 #89
+2025/12/29-20:31:06.738 c27c Delete type=2 #83
+2025/12/29-20:31:06.738 c27c Delete type=2 #85
+2025/12/29-20:31:06.738 c27c Delete type=2 #87
+2025/12/29-20:32:06.724 c27c Level-0 table #94: started
+2025/12/29-20:32:06.727 c27c Level-0 table #94: 32624 bytes OK
+2025/12/29-20:32:06.730 c27c Delete type=0 #90
+2025/12/29-20:33:06.724 c27c Level-0 table #96: started
+2025/12/29-20:33:06.728 c27c Level-0 table #96: 32017 bytes OK
+2025/12/29-20:33:06.731 c27c Delete type=0 #93
+2025/12/29-20:34:06.724 c27c Level-0 table #98: started
+2025/12/29-20:34:06.727 c27c Level-0 table #98: 32706 bytes OK
+2025/12/29-20:34:06.731 c27c Delete type=0 #95
+2025/12/29-20:35:06.724 c27c Level-0 table #100: started
+2025/12/29-20:35:06.727 c27c Level-0 table #100: 32766 bytes OK
+2025/12/29-20:35:06.730 c27c Delete type=0 #97
+2025/12/29-20:35:06.730 c27c Compacting 4@0 + 1@1 files
+2025/12/29-20:35:06.743 c27c Generated table #101@0: 4 keys, 32797 bytes
+2025/12/29-20:35:06.743 c27c Compacted 4@0 + 1@1 files => 32797 bytes
+2025/12/29-20:35:06.890 c27c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/29-20:35:06.891 c27c Delete type=2 #96
+2025/12/29-20:35:06.891 c27c Delete type=2 #100
+2025/12/29-20:35:06.891 c27c Delete type=2 #98
+2025/12/29-20:35:06.891 c27c Delete type=2 #92
+2025/12/29-20:35:06.891 c27c Delete type=2 #94
+2025/12/29-20:36:06.724 c27c Level-0 table #103: started
+2025/12/29-20:36:06.727 c27c Level-0 table #103: 32701 bytes OK
+2025/12/29-20:36:06.731 c27c Delete type=0 #99
+2025/12/29-20:37:06.724 c27c Level-0 table #105: started
+2025/12/29-20:37:06.727 c27c Level-0 table #105: 32459 bytes OK
+2025/12/29-20:37:06.731 c27c Delete type=0 #102
+2025/12/29-20:38:06.724 c27c Level-0 table #107: started
+2025/12/29-20:38:06.728 c27c Level-0 table #107: 32494 bytes OK
+2025/12/29-20:38:06.731 c27c Delete type=0 #104
+2025/12/29-20:39:06.724 c27c Level-0 table #109: started
+2025/12/29-20:39:06.727 c27c Level-0 table #109: 32746 bytes OK
+2025/12/29-20:39:06.730 c27c Delete type=0 #106
+2025/12/29-20:39:06.731 c27c Compacting 4@0 + 1@1 files
+2025/12/29-20:39:06.734 c27c Generated table #110@0: 4 keys, 32867 bytes
+2025/12/29-20:39:06.734 c27c Compacted 4@0 + 1@1 files => 32867 bytes
+2025/12/29-20:39:06.737 c27c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/29-20:39:06.737 c27c Delete type=2 #109
+2025/12/29-20:39:06.737 c27c Delete type=2 #107
+2025/12/29-20:39:06.737 c27c Delete type=2 #103
+2025/12/29-20:39:06.737 c27c Delete type=2 #105
+2025/12/29-20:39:06.737 c27c Delete type=2 #101
+2025/12/29-20:40:06.724 c27c Level-0 table #112: started
+2025/12/29-20:40:06.727 c27c Level-0 table #112: 32680 bytes OK
+2025/12/29-20:40:06.731 c27c Delete type=0 #108
+2025/12/29-20:41:06.724 c27c Level-0 table #114: started
+2025/12/29-20:41:06.727 c27c Level-0 table #114: 32869 bytes OK
+2025/12/29-20:41:06.730 c27c Delete type=0 #111
+2025/12/29-20:42:06.724 c27c Level-0 table #116: started
+2025/12/29-20:42:06.729 c27c Level-0 table #116: 32672 bytes OK
+2025/12/29-20:42:06.732 c27c Delete type=0 #113
+2025/12/29-20:43:06.724 c27c Level-0 table #118: started
+2025/12/29-20:43:06.727 c27c Level-0 table #118: 32984 bytes OK
+2025/12/29-20:43:06.731 c27c Delete type=0 #115
+2025/12/29-20:43:06.731 c27c Compacting 4@0 + 1@1 files
+2025/12/29-20:43:06.734 c27c Generated table #119@0: 4 keys, 33058 bytes
+2025/12/29-20:43:06.734 c27c Compacted 4@0 + 1@1 files => 33058 bytes
+2025/12/29-20:43:06.739 c27c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/29-20:43:06.739 c27c Delete type=2 #116
+2025/12/29-20:43:06.739 c27c Delete type=2 #114
+2025/12/29-20:43:06.739 c27c Delete type=2 #110
+2025/12/29-20:43:06.739 c27c Delete type=2 #118
+2025/12/29-20:43:06.739 c27c Delete type=2 #112
+2025/12/29-20:44:06.724 c27c Level-0 table #121: started
+2025/12/29-20:44:06.825 c27c Level-0 table #121: 32512 bytes OK
+2025/12/29-20:44:07.031 c27c Delete type=0 #117
+2025/12/29-20:45:06.839 c27c Level-0 table #123: started
+2025/12/29-20:45:06.964 c27c Level-0 table #123: 32779 bytes OK
+2025/12/29-20:45:07.059 c27c Delete type=0 #120
+2025/12/29-20:46:06.724 c27c Level-0 table #125: started
+2025/12/29-20:46:06.811 c27c Level-0 table #125: 32702 bytes OK
+2025/12/29-20:46:07.166 c27c Delete type=0 #122
+2025/12/29-20:47:06.724 c27c Level-0 table #127: started
+2025/12/29-20:47:06.775 c27c Level-0 table #127: 33168 bytes OK
+2025/12/29-20:47:06.850 c27c Delete type=0 #124
+2025/12/29-20:47:06.940 c27c Compacting 4@0 + 1@1 files
+2025/12/29-20:47:07.106 c27c Generated table #128@0: 4 keys, 33170 bytes
+2025/12/29-20:47:07.107 c27c Compacted 4@0 + 1@1 files => 33170 bytes
+2025/12/29-20:47:07.186 c27c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/29-20:47:07.187 c27c Delete type=2 #121
+2025/12/29-20:47:07.187 c27c Delete type=2 #125
+2025/12/29-20:47:07.187 c27c Delete type=2 #127
+2025/12/29-20:47:07.187 c27c Delete type=2 #119
+2025/12/29-20:47:07.187 c27c Delete type=2 #123
+2025/12/29-20:47:16.550 c27c Level-0 table #130: started
+2025/12/29-20:47:16.604 c27c Level-0 table #130: 32560 bytes OK
+2025/12/29-20:47:16.751 c27c Delete type=0 #126

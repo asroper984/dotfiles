@@ -1,0 +1,10 @@
+2025-12-29 20:38:18.441 [info] Tools environment: GOPATH=/home/arope/go, GOTOOLCHAIN=auto
+2025-12-29 20:38:18.441 [info] Installing 1 tool at /home/arope/go/bin
+2025-12-29 20:38:18.441 [info]   gopls
+2025-12-29 20:38:18.441 [info] 
+2025-12-29 20:38:36.123 [info] Installing golang.org/x/tools/gopls@latest (/home/arope/go/bin/gopls) SUCCEEDED
+2025-12-29 20:38:36.123 [info] 
+2025-12-29 20:38:36.123 [info] All tools successfully installed. You are ready to Go. :)
+2025-12-29 20:38:36.187 [info] Try to start language server - activation (enabled: true)
+2025-12-29 20:38:36.253 [info] Running language server gopls(v0.21.0/go1.25.5 X:nodwarf5)
+2025-12-29 20:39:18.613 [info] Running checks...

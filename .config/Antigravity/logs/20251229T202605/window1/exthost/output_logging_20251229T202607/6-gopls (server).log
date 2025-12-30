@@ -1,0 +1,373 @@
+[Info  - 8:38:36 PM] 2025/12/29 20:38:36 Created View (#1)
+	directory=/home/arope/.config
+	view_type="AdHoc"
+	root_dir="file:///home/arope/.config"
+	go_version="go version go1.25.5 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arope/.cache/go-build GOMODCACHE:/home/arope/go/pkg/mod GOPATH:/home/arope/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.5 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 8:38:36 PM] 2025/12/29 20:38:36 Created View (#2)
+	directory=/home/arope/Documents
+	view_type="AdHoc"
+	root_dir="file:///home/arope/Documents"
+	go_version="go version go1.25.5 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arope/.cache/go-build GOMODCACHE:/home/arope/go/pkg/mod GOPATH:/home/arope/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.5 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 8:38:36 PM] 2025/12/29 20:38:36 go/packages.Load #1
+	view_id="1"
+	snapshot=0
+	directory=/home/arope/.config
+	query=[./ builtin]
+	packages=2
+	duration=12.02233ms
+
+[Info  - 8:38:36 PM] 2025/12/29 20:38:36 go/packages.Load #2
+	view_id="2"
+	snapshot=0
+	directory=/home/arope/Documents
+	query=[./ builtin]
+	packages=2
+	duration=14.718839ms
+
+[Info  - 8:38:36 PM] 2025/12/29 20:38:36 Created View (#3)
+	directory=/home/arope/Documents
+	view_type="AdHoc"
+	root_dir="file:///home/arope/Documents/Code/go/Notes"
+	go_version="go version go1.25.5 X:nodwarf5 linux/amd64"
+	build_flags=[]
+	env={GOOS:linux GOARCH:amd64 GOCACHE:/home/arope/.cache/go-build GOMODCACHE:/home/arope/go/pkg/mod GOPATH:/home/arope/go GOPRIVATE: GOFLAGS: GO111MODULE: GOTOOLCHAIN:auto GOROOT:/usr/lib/go GoVersion:25 GoVersionOutput:go version go1.25.5 X:nodwarf5 linux/amd64
+ ExplicitGOWORK: EffectiveGOPACKAGESDRIVER:}
+	env_overlay=[]
+
+[Info  - 8:38:36 PM] 2025/12/29 20:38:36 go/packages.Load #3
+	view_id="3"
+	snapshot=0
+	directory=/home/arope/Documents
+	query=[./ builtin]
+	packages=2
+	duration=19.759666ms
+
+[Error - 8:38:36 PM] 2025/12/29 20:38:36 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:36 PM] 2025/12/29 20:38:36 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:41 PM] 2025/12/29 20:38:41 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:6:2: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:41 PM] 2025/12/29 20:38:41 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:6:2: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:41 PM] 2025/12/29 20:38:41 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:5:2: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:42 PM] 2025/12/29 20:38:42 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:5:2: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:42 PM] 2025/12/29 20:38:42 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:5:2: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:42 PM] 2025/12/29 20:38:42 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected ';', found 'EOF' (and 1 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:42 PM] 2025/12/29 20:38:42 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:42 PM] 2025/12/29 20:38:42 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:42 PM] 2025/12/29 20:38:42 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:42 PM] 2025/12/29 20:38:42 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:43 PM] 2025/12/29 20:38:43 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:1: expected declaration, found f
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:43 PM] 2025/12/29 20:38:43 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:1: expected declaration, found fu
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:1: expected declaration, found fucn
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:1: expected declaration, found fucn
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:1: expected declaration, found fucn
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:1: expected declaration, found fucn
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:1: expected declaration, found fuc
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:1: expected declaration, found fuc
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:1: expected declaration, found fu
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:44 PM] 2025/12/29 20:38:44 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:45 PM] 2025/12/29 20:38:45 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:45 PM] 2025/12/29 20:38:45 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:7: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:46 PM] 2025/12/29 20:38:46 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:8: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:46 PM] 2025/12/29 20:38:46 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:9: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:46 PM] 2025/12/29 20:38:46 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:9: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:46 PM] 2025/12/29 20:38:46 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:9: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:46 PM] 2025/12/29 20:38:46 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:8: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:46 PM] 2025/12/29 20:38:46 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:7: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:46 PM] 2025/12/29 20:38:46 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:47 PM] 2025/12/29 20:38:47 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:7: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:47 PM] 2025/12/29 20:38:47 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:8: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:47 PM] 2025/12/29 20:38:47 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:9: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:47 PM] 2025/12/29 20:38:47 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:48 PM] 2025/12/29 20:38:48 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:11: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:48 PM] 2025/12/29 20:38:48 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:12: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:48 PM] 2025/12/29 20:38:48 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:13: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:48 PM] 2025/12/29 20:38:48 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:13: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:48 PM] 2025/12/29 20:38:48 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:49 PM] 2025/12/29 20:38:49 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:6: expected 'IDENT', found 2 (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:50 PM] 2025/12/29 20:38:50 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:51 PM] 2025/12/29 20:38:51 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:7: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:52 PM] 2025/12/29 20:38:52 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:8: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:52 PM] 2025/12/29 20:38:52 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:9: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:52 PM] 2025/12/29 20:38:52 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:9: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:52 PM] 2025/12/29 20:38:52 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:6: expected 'IDENT', found 'func' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:52 PM] 2025/12/29 20:38:52 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:6: expected 'IDENT', found 'func' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:53 PM] 2025/12/29 20:38:53 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:53 PM] 2025/12/29 20:38:53 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:53 PM] 2025/12/29 20:38:53 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:7: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:53 PM] 2025/12/29 20:38:53 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:7: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:54 PM] 2025/12/29 20:38:54 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:54 PM] 2025/12/29 20:38:54 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:7: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:54 PM] 2025/12/29 20:38:54 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:8: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:54 PM] 2025/12/29 20:38:54 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:9: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:54 PM] 2025/12/29 20:38:54 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:55 PM] 2025/12/29 20:38:55 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:11: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:55 PM] 2025/12/29 20:38:55 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:11: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:55 PM] 2025/12/29 20:38:55 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:4:2: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:56 PM] 2025/12/29 20:38:56 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:7: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:56 PM] 2025/12/29 20:38:56 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:8: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:56 PM] 2025/12/29 20:38:56 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:9: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:56 PM] 2025/12/29 20:38:56 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:56 PM] 2025/12/29 20:38:56 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:57 PM] 2025/12/29 20:38:57 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found ')' (and 4 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:57 PM] 2025/12/29 20:38:57 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found ')' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:58 PM] 2025/12/29 20:38:58 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found ')' (and 4 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:58 PM] 2025/12/29 20:38:58 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:10: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:58 PM] 2025/12/29 20:38:58 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:11: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:58 PM] 2025/12/29 20:38:58 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:11: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:58 PM] 2025/12/29 20:38:58 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:12: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:59 PM] 2025/12/29 20:38:59 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:13: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:59 PM] 2025/12/29 20:38:59 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:14: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:59 PM] 2025/12/29 20:38:59 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:15: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:59 PM] 2025/12/29 20:38:59 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:16: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:59 PM] 2025/12/29 20:38:59 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:16: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:59 PM] 2025/12/29 20:38:59 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:17: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:59 PM] 2025/12/29 20:38:59 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:18: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:38:59 PM] 2025/12/29 20:38:59 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:19: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:00 PM] 2025/12/29 20:39:00 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:20: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:00 PM] 2025/12/29 20:39:00 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:21: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:00 PM] 2025/12/29 20:39:00 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:3:22: expected '(', found newline (and 2 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Info  - 8:39:06 PM] 2025/12/29 20:39:06 background imports cache refresh starting
+
+[Info  - 8:39:06 PM] 2025/12/29 20:39:06 background refresh finished after 2.982638ms
+
+[Info  - 8:39:06 PM] 2025/12/29 20:39:06 background imports cache refresh starting
+
+[Info  - 8:39:06 PM] 2025/12/29 20:39:06 background refresh finished after 2.988379ms
+
+[Info  - 8:39:06 PM] 2025/12/29 20:39:06 background imports cache refresh starting
+
+[Info  - 8:39:06 PM] 2025/12/29 20:39:06 background refresh finished after 27.211µs
+
+[Error - 8:39:12 PM] 2025/12/29 20:39:12 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found t
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:12 PM] 2025/12/29 20:39:12 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found te
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:13 PM] 2025/12/29 20:39:13 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found t
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:13 PM] 2025/12/29 20:39:13 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found t
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:13 PM] 2025/12/29 20:39:13 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found f
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:13 PM] 2025/12/29 20:39:13 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found fu
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:13 PM] 2025/12/29 20:39:13 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found fuc
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:14 PM] 2025/12/29 20:39:14 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found fuc
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:14 PM] 2025/12/29 20:39:14 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found fu
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:14 PM] 2025/12/29 20:39:14 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:1: expected declaration, found fun
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:14 PM] 2025/12/29 20:39:14 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:15 PM] 2025/12/29 20:39:15 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Error - 8:39:15 PM] 2025/12/29 20:39:15 imports fixes: allImportsFixes: /home/arope/Documents/Code/go/Notes/test.go:7:6: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/arope/Documents/Code/go/Notes/test.go"
+
+[Info  - 8:39:44 PM] 2025/12/29 20:39:44 background imports cache refresh starting
+
+[Info  - 8:39:44 PM] 2025/12/29 20:39:44 background refresh finished after 28.994µs
+
+[Info  - 8:47:16 PM] 2025/12/29 20:47:16 Shutdown session
+	shutdown_session=1
+

@@ -1,0 +1,51 @@
+2025-12-29 20:26:06.005 [info] Using Cloud Code URL: https://daily-cloudcode-pa.googleapis.com
+2025-12-29 20:26:06.010 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-29 20:26:06.015 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:36501
+2025-12-29 20:26:06.016 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-12-29 20:26:06.119 [info] update#setState idle
+2025-12-29 20:26:06.897 [info] AntigravityAuthMainService initialized
+2025-12-29 20:26:10.346 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/arope/.config/Antigravity/Workspaces/1766956903775/workspace.json
+2025-12-29 20:26:10.346 [info] [AgentClientServer] Starting server
+2025-12-29 20:26:10.349 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-29 20:26:10.349 [info] [AgentClientServer] Cascade server started on http://localhost:9092
+2025-12-29 20:26:10.350 [info] [AgentClientServer] Cascade server started on port 9092
+2025-12-29 20:26:36.119 [info] update#setState checking for updates
+2025-12-29 20:26:36.177 [info] update#setState idle
+2025-12-29 20:41:51.237 [info] [AgentClientServer] Cascade initializing for worksapce 
+2025-12-29 20:41:51.237 [info] [AgentClientServer] Starting server
+2025-12-29 20:41:51.240 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-29 20:41:51.242 [info] [AgentClientServer] Cascade server started on http://localhost:9090
+2025-12-29 20:41:51.242 [info] [AgentClientServer] Cascade server started on port 9090
+2025-12-29 20:43:28.835 [info] [AgentClientServer] Server already exists for workspace  on port 9090
+2025-12-29 20:43:28.836 [info] [AgentClientServer] Cascade initializing for worksapce 
+2025-12-29 20:43:28.837 [info] [AgentClientServer] Starting server
+2025-12-29 20:43:28.840 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-29 20:43:28.840 [info] [AgentClientServer] Cascade server started on http://localhost:9090
+2025-12-29 20:43:28.840 [info] [AgentClientServer] Cascade server started on port 9090
+2025-12-29 20:43:32.028 [info] Extension host with pid 61649 exited with code: 0, signal: unknown.
+2025-12-29 20:43:33.027 [error] Extension host with pid 61649 still exists, forcefully killing it...
+2025-12-29 20:43:55.013 [info] Extension host with pid 62155 exited with code: 0, signal: unknown.
+2025-12-29 20:43:56.031 [error] Extension host with pid 62155 still exists, forcefully killing it...
+2025-12-29 20:44:07.425 [info] [AgentClientServer] Server already exists for workspace  on port 9090
+2025-12-29 20:44:07.426 [info] [AgentClientServer] Cascade initializing for worksapce 
+2025-12-29 20:44:07.426 [info] [AgentClientServer] Starting server
+2025-12-29 20:44:07.430 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-29 20:44:07.431 [info] [AgentClientServer] Cascade server started on http://localhost:9090
+2025-12-29 20:44:07.431 [info] [AgentClientServer] Cascade server started on port 9090
+2025-12-29 20:44:08.964 [info] Extension host with pid 62522 exited with code: 0, signal: unknown.
+2025-12-29 20:44:09.964 [error] Extension host with pid 62522 still exists, forcefully killing it...
+2025-12-29 20:44:11.545 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/arope/Documents
+2025-12-29 20:44:11.546 [info] [AgentClientServer] Starting server
+2025-12-29 20:44:11.549 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-29 20:44:11.549 [info] [AgentClientServer] Cascade server started on http://localhost:9091
+2025-12-29 20:44:11.549 [info] [AgentClientServer] Cascade server started on port 9091
+2025-12-29 20:44:28.541 [warning] [perf] profiling STARTED f47b32cd-9746-48fc-8145-939b122c2cca
+2025-12-29 20:44:33.584 [warning] [perf] profiling DONE f47b32cd-9746-48fc-8145-939b122c2cca
+2025-12-29 20:44:49.229 [warning] [perf] profiling STARTED f47b32cd-9746-48fc-8145-939b122c2cca
+2025-12-29 20:44:54.411 [warning] [perf] profiling DONE f47b32cd-9746-48fc-8145-939b122c2cca
+2025-12-29 20:45:09.999 [warning] [perf] profiling STARTED f47b32cd-9746-48fc-8145-939b122c2cca
+2025-12-29 20:45:15.086 [warning] [perf] profiling DONE f47b32cd-9746-48fc-8145-939b122c2cca
+2025-12-29 20:45:39.327 [info] Extension host with pid 63032 exited with code: 0, signal: unknown.
+2025-12-29 20:45:40.328 [error] Extension host with pid 63032 still exists, forcefully killing it...
+2025-12-29 20:47:16.435 [info] Extension host with pid 49951 exited with code: 0, signal: unknown.
+2025-12-29 20:47:17.435 [error] Extension host with pid 49951 still exists, forcefully killing it...

@@ -1,0 +1,57 @@
+2025-12-28 09:01:16.456 [info] Using Cloud Code URL: https://daily-cloudcode-pa.googleapis.com
+2025-12-28 09:01:16.456 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-28 09:01:16.456 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:35463
+2025-12-28 09:01:16.456 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9102/antigravity
+2025-12-28 09:01:16.503 [info] update#setState idle
+2025-12-28 09:01:21.619 [info] AntigravityAuthMainService initialized
+2025-12-28 09:01:27.997 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/arope/.config
+2025-12-28 09:01:27.998 [info] [AgentClientServer] Starting server
+2025-12-28 09:01:28.003 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-28 09:01:28.004 [info] [AgentClientServer] Cascade server started on http://localhost:9090
+2025-12-28 09:01:28.004 [info] [AgentClientServer] Cascade server started on port 9090
+2025-12-28 09:01:40.877 [info] Extension host with pid 681104 exited with code: 0, signal: unknown.
+2025-12-28 09:01:41.877 [error] Extension host with pid 681104 still exists, forcefully killing it...
+2025-12-28 09:01:46.504 [info] update#setState checking for updates
+2025-12-28 09:01:46.566 [info] update#setState idle
+2025-12-28 09:01:46.810 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/arope/.config/Antigravity/Workspaces/1766930501436/workspace.json
+2025-12-28 09:01:46.810 [info] [AgentClientServer] Starting server
+2025-12-28 09:01:46.814 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-28 09:01:46.815 [info] [AgentClientServer] Cascade server started on http://localhost:9091
+2025-12-28 09:01:46.815 [info] [AgentClientServer] Cascade server started on port 9091
+2025-12-28 09:03:06.309 [info] [AgentClientServer] Cascade initializing for worksapce 
+2025-12-28 09:03:06.309 [info] [AgentClientServer] Starting server
+2025-12-28 09:03:06.313 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-28 09:03:06.314 [info] [AgentClientServer] Cascade server started on http://localhost:9093
+2025-12-28 09:03:06.314 [info] [AgentClientServer] Cascade server started on port 9093
+2025-12-28 09:03:43.454 [info] Extension host with pid 724497 exited with code: 0, signal: unknown.
+2025-12-28 09:03:44.455 [error] Extension host with pid 724497 still exists, forcefully killing it...
+2025-12-28 10:01:46.505 [info] update#setState checking for updates
+2025-12-28 10:01:46.595 [info] update#setState idle
+2025-12-28 11:01:46.506 [info] update#setState checking for updates
+2025-12-28 11:01:46.583 [info] update#setState idle
+2025-12-28 12:01:46.506 [info] update#setState checking for updates
+2025-12-28 12:01:46.629 [info] update#setState idle
+2025-12-28 13:01:46.507 [info] update#setState checking for updates
+2025-12-28 13:01:46.599 [info] update#setState idle
+2025-12-28 14:01:46.508 [info] update#setState checking for updates
+2025-12-28 14:01:46.592 [info] update#setState idle
+2025-12-28 14:15:27.041 [info] [AgentClientServer] Server already exists for workspace  on port 9093
+2025-12-28 14:15:27.042 [info] [AgentClientServer] Cascade initializing for worksapce 
+2025-12-28 14:15:27.042 [info] [AgentClientServer] Starting server
+2025-12-28 14:15:27.045 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-28 14:15:27.046 [info] [AgentClientServer] Cascade server started on http://localhost:9093
+2025-12-28 14:15:27.046 [info] [AgentClientServer] Cascade server started on port 9093
+2025-12-28 14:15:52.129 [info] Extension host with pid 1267370 exited with code: 0, signal: unknown.
+2025-12-28 14:15:53.130 [error] Extension host with pid 1267370 still exists, forcefully killing it...
+2025-12-28 14:15:54.756 [info] [AgentClientServer] Server already exists for workspace file:///home/arope/.config on port 9090
+2025-12-28 14:15:54.758 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/arope/.config
+2025-12-28 14:15:54.758 [info] [AgentClientServer] Starting server
+2025-12-28 14:15:54.761 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-28 14:15:54.762 [info] [AgentClientServer] Cascade server started on http://localhost:9090
+2025-12-28 14:15:54.762 [info] [AgentClientServer] Cascade server started on port 9090
+2025-12-28 14:20:51.142 [info] Extension host with pid 688772 exited with code: 0, signal: unknown.
+2025-12-28 14:20:52.143 [error] Extension host with pid 688772 still exists, forcefully killing it...
+2025-12-28 15:01:46.509 [info] update#setState checking for updates
+2025-12-28 15:01:46.624 [info] update#setState idle
+2025-12-28 15:39:01.990 [info] Extension host with pid 1274116 exited with code: 0, signal: unknown.
+2025-12-28 15:39:02.991 [error] Extension host with pid 1274116 still exists, forcefully killing it...

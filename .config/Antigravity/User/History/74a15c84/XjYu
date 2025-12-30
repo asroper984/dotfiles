@@ -1,0 +1,72 @@
+# Start-Up Applications 
+
+exec waybar 
+
+# Modifers 
+
+set $mod_1 Control+Shift
+set $mod_2 Control+Mod1
+
+
+# Applications 
+
+set $menu fuzzel  
+set $terminal alacritty
+set $browser librewolf-bin
+set $file_manager nautilus 
+
+# Customization  
+
+# Borders
+default_border pixel 1 
+
+# Wallpaper 
+
+output * bg /usr/share/backgrounds/sway/Sway_Wallpaper_Blue_1920x1080.png fill
+
+# Key Bindings 
+
+# Launchers 
+bindsym $mod_1+Space exec $menu 
+bindsym $mod_2+T exec $terminal 
+bindsym $mod_1+B exec $browser 
+bindsym $mod_1+F exec $file_manager 
+
+# Core Keybindings    
+
+bindsym $mod_1+Shift+q kill
+
+# Workspaces 
+
+# Switch to workspace
+bindsym $mod_1+1 workspace number 1
+bindsym $mod_1+2 workspace number 2
+bindsym $mod_1+3 workspace number 3
+bindsym $mod_1+4 workspace number 4
+bindsym $mod_1+5 workspace number 5
+bindsym $mod_1+6 workspace number 6
+bindsym $mod_1+7 workspace number 7
+bindsym $mod_1+8 workspace number 8
+bindsym $mod_1+9 workspace number 9
+bindsym $mod_1+0 workspace number 10
+
+# Move focused container to workspace
+bindsym $mod_2+1 move container to workspace number 1
+bindsym $mod_2+2 move container to workspace number 2
+bindsym $mod_2+3 move container to workspace number 3
+bindsym $mod_2+4 move container to workspace number 4
+bindsym $mod_2+5 move container to workspace number 5
+bindsym $mod_2+6 move container to workspace number 6
+bindsym $mod_2+7 move container to workspace number 7
+bindsym $mod_2+8 move container to workspace number 8
+bindsym $mod_2+9 move container to workspace number 9
+bindsym $mod_2+0 move container to workspace number 10
+# Layouts 
+bindsym $mod_1+Tab layout toggle splitv
+bindsym $mod_2+Tab layout toggle splith
+
+# Screenshotting
+# Copy to clipboard 
+bindsym $mod_1+z exec grim -g "$(slurp)" - | wl-copy 
+# Save to file 
+bindsym $mod_1+x exec grim -g "$(slurp)" - | tee ~/Pictures/Screenshots/$(date +"%Y-%m-%d_%H-%M-%S").png 

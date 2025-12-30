@@ -1,0 +1,79 @@
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "SF Pro Display", "Font Awesome 6 Free", "Font Awesome 6 Brands", monospace;
+    font-size: 13px;
+    font-weight: bold;
+    min-height: 0;
+}
+
+window#waybar {
+    /* Semi-transparent dark background */
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Thin border to define the edges */
+    border: 1px solid rgba(255, 255, 255, 0.2); 
+}
+
+/* If you are using Hyprland, this line adds the blur.
+   If you are using SwayFX, you need to configure blur in your sway config, not here.
+*/
+window#waybar.hidden {
+    opacity: 0.2;
+}
+
+/* --- Workspaces --- */
+#workspaces {
+    background: transparent;
+    margin: 5px;
+}
+
+#workspaces button {
+    padding: 0 10px;
+    background: transparent;
+    color: #cccccc;
+    border-radius: 5px
+    margin: 0 2px;
+    transition: all 0.3s ease;
+}
+
+/* Focused: Bright Blue Glass */
+#workspaces button.focused {
+    background: rgba(58, 134, 255, 0.8); 
+    color: #ffffff;
+    box-shadow: 0 0 10px rgba(58, 134, 255, 0.5); /* Glow effect */
+}
+
+#workspaces button.urgent {
+    background: rgba(255, 77, 77, 0.8);
+    color: #ffffff;
+}
+
+#workspaces button:hover {
+    background: rgba(255, 255, 255, 0.2); /* Light hover effect */
+    color: #ffffff;
+}
+
+/* --- Modules --- */
+/* Removed individual black backgrounds so the glass shows through */
+#clock, #pulseaudio, #network, #battery, #tray {
+    padding: 0 12px;
+    background: transparent;
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/* Add a pill background to modules if you want them to look like "cutouts" 
+   Uncomment below to add subtle backgrounds to modules */
+/*
+#clock, #pulseaudio, #network, #battery, #tray {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    margin: 5px 2px;
+}
+*/
+
+#battery.critical { 
+    color: #ff4d4d; 
+    text-shadow: 0 0 5px #ff0000;
+}
