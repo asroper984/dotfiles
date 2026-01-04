@@ -1,0 +1,20 @@
+# System Utilities 
+btop
+alacritty 
+micro
+grim
+slurp
+wl-clipboard
+cliphist
+
+# Browsers
+firefox
+
+# AUR Packages
+
+legcord
+steam
+spotify
+swaync-git
+sway-git
+swayidle
